@@ -20,7 +20,6 @@ docs/                GitHub Pages root (the SPA)
     meta.json           { last_updated, item_count }
     items/{name}.csv    per-item history, appended every scrape
 docker-compose.yml   Portainer stack definition
-.github/workflows/   builds & publishes the scraper image to ghcr.io
 ```
 
 ## Why a self-scheduling container instead of cron
@@ -71,10 +70,6 @@ scrapes once immediately, then keeps running and re-scrapes at 06/09/12/15/18/21
 
 Check logs in Portainer to confirm: `[run] scraped 1032 items` followed by
 either `[run] pushed update for ...` or `[run] nothing changed, skipping push`.
-
-Alternatively, once the GitHub Actions workflow below has run at least once,
-point `docker-compose.yml`'s `image:` at `ghcr.io/yanaa-12/mm2-trading/scraper:latest`
-instead of building locally — faster deploys, no build step in Portainer.
 
 ### 3. Enable GitHub Pages
 

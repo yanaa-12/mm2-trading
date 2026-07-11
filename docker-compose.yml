@@ -1,7 +1,5 @@
 services:
   mm2-scraper:
-    # Point this at the prebuilt image instead, once GitHub Actions has published one:
-    # image: ghcr.io/yanaa-12/mm2-trading/scraper:latest
     build: ./scraper
     image: mm2-scraper:latest
     restart: unless-stopped

@@ -3,7 +3,9 @@
 Uses curl_cffi with Chrome impersonation to get past the Incapsula WAF, which
 blocks plain requests/httpx/aiohttp based on TLS fingerprint.
 """
+import random
 import re
+import time
 
 from bs4 import BeautifulSoup
 from curl_cffi import requests as cf_requests
@@ -21,6 +23,11 @@ CATEGORIES = [
 # Bail out instead of pushing a near-empty snapshot.
 MIN_ITEMS_SANITY = 100
 MIN_CATEGORIES_SANITY = 10
+
+# Politeness delay between category requests, so we don't hit the site with a
+# burst of 14 back-to-back requests.
+DELAY_MIN_SECONDS = 3
+DELAY_MAX_SECONDS = 6
 
 
 def _parse_int(text, default=0):
@@ -98,8 +105,14 @@ def scrape_all():
     items = []
     categories_with_data = 0
 
+    categories = list(CATEGORIES)
+    random.shuffle(categories)
+
     with cf_requests.Session() as session:
-        for category in CATEGORIES:
+        for i, category in enumerate(categories):
+            if i > 0:
+                time.sleep(random.uniform(DELAY_MIN_SECONDS, DELAY_MAX_SECONDS))
+
             try:
                 html = _fetch_category(category, session)
             except Exception as exc:

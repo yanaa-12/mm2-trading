@@ -54,18 +54,17 @@ def _parse_item(col, category):
         return None
 
     # Unique owner-items, untradables, and starter items have no market value at
-    # all (no data-value attribute, no .itemvalue element) - skip them rather than
-    # recording a misleading value of 0.
-    raw_value = col.get('data-value')
-    if not raw_value:
+    # all - either no data-value attribute, or (seen elsewhere on the site, e.g.
+    # the Ranged Value field) a literal "N/A". Skip them rather than recording a
+    # misleading value of 0.
+    value = _parse_int(col.get('data-value'), default=None)
+    if value is None:
         return None
 
     demand_el = col.select_one('.itemdemand')
     rarity_el = col.select_one('.itemrarity')
     origin_el = col.select_one('.itemorigin')
     stability_el = col.select_one('.itemstability')
-
-    value = _parse_int(raw_value)
     demand = _parse_int(col.get('data-demand') or (demand_el.get_text() if demand_el else ''))
     rarity = _parse_int(col.get('data-rarity') or (rarity_el.get_text() if rarity_el else ''))
     stability = stability_el.get_text(strip=True) if stability_el else (col.get('data-stability-score') or '')

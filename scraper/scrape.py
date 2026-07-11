@@ -24,15 +24,19 @@ MIN_CATEGORIES_SANITY = 10
 
 
 def _parse_int(text, default=0):
+    """Parses a possibly comma-formatted number. Some item values are
+    fractional (e.g. "0.01"), so this preserves decimals rather than
+    stripping the "." and silently inflating the value."""
     if text is None:
         return default
-    cleaned = re.sub(r'[^\d+-]', '', str(text))
-    if not cleaned or cleaned in ('+', '-'):
+    cleaned = re.sub(r'[^\d+\-.]', '', str(text))
+    if not cleaned or cleaned in ('+', '-', '.'):
         return default
     try:
-        return int(cleaned)
+        num = float(cleaned)
     except ValueError:
         return default
+    return int(num) if num == int(num) else num
 
 
 def _extract_last_change(col):

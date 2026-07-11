@@ -1,0 +1,14 @@
+services:
+  mm2-scraper:
+    # Point this at the prebuilt image instead, once GitHub Actions has published one:
+    # image: ghcr.io/yanaa-12/mm2-trading/scraper:latest
+    build: ./scraper
+    image: mm2-scraper:latest
+    restart: unless-stopped
+    environment:
+      GH_TOKEN: ${GH_TOKEN}
+      GIT_USER_NAME: ${GIT_USER_NAME:-mm2-bot}
+      GIT_USER_EMAIL: ${GIT_USER_EMAIL:-mm2-bot@users.noreply.github.com}
+      REPO_OWNER: ${REPO_OWNER:-yanaa-12}
+      REPO_NAME: ${REPO_NAME:-mm2-trading}
+      REPO_BRANCH: ${REPO_BRANCH:-main}

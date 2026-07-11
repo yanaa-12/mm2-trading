@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MM2 Supreme Values Tracker</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="app">
+  <header>
+    <h1>MM2 Supreme Values Tracker</h1>
+    <div class="subtitle">Murder Mystery 2 item values, scraped from supremevalues.com 4x daily</div>
+  </header>
+
+  <section class="stats-bar" id="statsBar" aria-live="polite">
+    <div class="stat-tile">
+      <div class="label">Total items</div>
+      <div class="value" id="statTotal">–</div>
+    </div>
+    <div class="stat-tile">
+      <div class="label">Last updated</div>
+      <div class="value small" id="statUpdated">–</div>
+      <div class="sub" id="statUpdatedRel"></div>
+    </div>
+    <div class="stat-tile">
+      <div class="label">Highest value item</div>
+      <div class="value small" id="statHighest">–</div>
+    </div>
+    <div class="stat-tile">
+      <div class="label">Most volatile (last change)</div>
+      <div class="value small" id="statVolatile">–</div>
+    </div>
+  </section>
+
+  <section class="filter-row">
+    <input type="search" id="searchInput" placeholder="Search items…" aria-label="Search items">
+    <select id="categorySelect" aria-label="Filter by category">
+      <option value="">All categories</option>
+    </select>
+  </section>
+
+  <section class="main-grid">
+    <div class="card">
+      <div class="card-header">
+        <span>Items</span>
+        <span id="tableCount"></span>
+      </div>
+      <div class="table-wrap">
+        <table id="itemTable">
+          <thead>
+            <tr>
+              <th data-key="name">Name</th>
+              <th data-key="category">Category</th>
+              <th data-key="value">Value</th>
+              <th data-key="demand">Demand</th>
+              <th data-key="rarity">Rarity</th>
+              <th data-key="last_change">Change</th>
+              <th data-key="stability">Stability</th>
+            </tr>
+          </thead>
+          <tbody id="itemTableBody"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="chart-legend" id="chartLegend">
+        <span class="legend-empty">Click up to 8 items in the table to chart them</span>
+      </div>
+      <div id="chart"></div>
+      <div class="history-wrap">
+        <div class="card-header"><span id="historyTitle">Value history</span></div>
+        <table id="historyTable">
+          <thead>
+            <tr>
+              <th>Time (UTC)</th>
+              <th>Value</th>
+              <th>Demand</th>
+              <th>Rarity</th>
+              <th>Change</th>
+              <th>Stability</th>
+            </tr>
+          </thead>
+          <tbody id="historyTableBody"></tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <footer>Data collected automatically every 6 hours. Source: supremevalues.com</footer>
+</div>
+
+<script src="https://unpkg.com/lightweight-charts@4/dist/lightweight-charts.standalone.production.js"></script>
+<script src="https://unpkg.com/papaparse@5/papaparse.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

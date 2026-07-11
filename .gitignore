@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+local-data/
+mm2-supreme-values-architecture.md

@@ -1,0 +1,28 @@
+name: Build scraper image
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scraper/**'
+      - '.github/workflows/docker-build.yml'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Log in to GHCR
+        run: echo "${{ secrets.GITHUB_TOKEN }}" | docker login ghcr.io -u ${{ github.actor }} --password-stdin
+
+      - name: Build and push
+        run: |
+          IMAGE="ghcr.io/${{ github.repository }}/scraper"
+          docker build -t "$IMAGE:latest" -t "$IMAGE:${{ github.sha }}" ./scraper
+          docker push "$IMAGE:latest"
+          docker push "$IMAGE:${{ github.sha }}"

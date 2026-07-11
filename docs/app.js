@@ -241,10 +241,21 @@ function toggleSelect(name) {
 
 // ---- Table ----
 
+// Subsequence match: every character of the query must appear in the target,
+// in order, but not necessarily contiguously (e.g. "trvlrgun" matches "Traveler's Gun").
+function fuzzyMatch(query, target) {
+  if (!query) return true;
+  let qi = 0;
+  for (let ti = 0; ti < target.length && qi < query.length; ti++) {
+    if (target[ti] === query[qi]) qi++;
+  }
+  return qi === query.length;
+}
+
 function getFilteredSorted() {
   const q = document.getElementById('searchInput').value.trim().toLowerCase();
   const cat = document.getElementById('categorySelect').value;
-  let rows = allItems.filter((it) => (!cat || it.category === cat) && (!q || it.name.toLowerCase().includes(q)));
+  let rows = allItems.filter((it) => (!cat || it.category === cat) && fuzzyMatch(q, it.name.toLowerCase()));
 
   const { key, dir } = sortState;
   rows = rows.slice().sort((a, b) => {

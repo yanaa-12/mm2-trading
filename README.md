@@ -1,6 +1,6 @@
 # MM2 Supreme Values Tracker
 
-Scrapes all ~1,377 Murder Mystery 2 item values from [supremevalues.com](https://supremevalues.com)
+Scrapes ~1,030 priced Murder Mystery 2 items from [supremevalues.com](https://supremevalues.com)
 four times a day, commits the results as CSV to this repo, and serves a
 TradingView-style charting SPA from GitHub Pages. No servers, no database —
 just a container that scrapes + pushes, and static files that GitHub Pages hosts.
@@ -68,7 +68,7 @@ In Portainer: **Stacks → Add stack → Repository**, point it at this repo and
 `.env`. Deploy. The container builds the image (from `scraper/Dockerfile`),
 scrapes once immediately, then keeps running and re-scrapes every 6 hours.
 
-Check logs in Portainer to confirm: `[run] scraped 1377 items` followed by
+Check logs in Portainer to confirm: `[run] scraped 1032 items` followed by
 either `[run] pushed update for ...` or `[run] nothing changed, skipping push`.
 
 Alternatively, once the GitHub Actions workflow below has run at least once,

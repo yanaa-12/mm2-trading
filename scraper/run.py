@@ -14,7 +14,7 @@ from pathlib import Path
 from scrape import scrape_all
 from storage import write_snapshot
 
-RUN_HOURS_UTC = [0, 6, 12, 18]
+RUN_HOURS_UTC = [6, 9, 12, 15, 18, 21]
 DATA_SUBDIR = 'docs/data'
 GIT_TIMEOUT_SECONDS = 60
 

@@ -1,7 +1,7 @@
 # MM2 Supreme Values Tracker
 
 Scrapes ~1,030 priced Murder Mystery 2 items from [supremevalues.com](https://supremevalues.com)
-four times a day, commits the results as CSV to this repo, and serves a
+six times a day, commits the results as CSV to this repo, and serves a
 TradingView-style charting SPA from GitHub Pages. No servers, no database —
 just a container that scrapes + pushes, and static files that GitHub Pages hosts.
 
@@ -11,7 +11,7 @@ just a container that scrapes + pushes, and static files that GitHub Pages hosts
 scraper/            Python scraper + self-scheduling container
   scrape.py            fetches & parses supremevalues.com
   storage.py            writes docs/data/{latest.csv,meta.json,items/*.csv}
-  run.py                long-running loop: scrapes at 00/06/12/18 UTC, git push
+  run.py                long-running loop: scrapes at 06/09/12/15/18/21 UTC, git push
   Dockerfile
 docs/                GitHub Pages root (the SPA)
   index.html, app.js, style.css
@@ -29,19 +29,20 @@ Portainer manages standalone Docker containers — it has no built-in
 scheduled/cron-triggered run (that's a Nomad/Kubernetes CronJob feature, not
 available here). So instead of relying on the host to trigger runs,
 `scraper/run.py` stays up permanently and drives its own schedule: it scrapes
-immediately on start, then sleeps until the next of 00:00 / 06:00 / 12:00 /
-18:00 UTC, forever. `restart: unless-stopped` in `docker-compose.yml` means
-Portainer just needs to keep the container alive — the container handles timing.
+immediately on start, then sleeps until the next of 06:00 / 09:00 / 12:00 /
+15:00 / 18:00 / 21:00 UTC, forever. `restart: unless-stopped` in
+`docker-compose.yml` means Portainer just needs to keep the container alive —
+the container handles timing.
 
 ## Data format
 
 Each item CSV row is timestamped (not just dated), since the scraper runs
-4x/day:
+6x/day:
 
 ```csv
 timestamp,value,demand,rarity,last_change,stability
-2026-07-11T00:00:04Z,4750,5,5,-250,Stable
-2026-07-11T06:00:02Z,4750,5,5,0,Stable
+2026-07-11T06:00:04Z,4750,5,5,-250,Stable
+2026-07-11T09:00:02Z,4750,5,5,0,Stable
 ```
 
 Timestamps are UTC, ISO-8601 (`YYYY-MM-DDTHH:MM:SSZ`).
@@ -66,7 +67,7 @@ file — either works).
 In Portainer: **Stacks → Add stack → Repository**, point it at this repo and
 `docker-compose.yml`, or paste the compose file directly and upload/paste
 `.env`. Deploy. The container builds the image (from `scraper/Dockerfile`),
-scrapes once immediately, then keeps running and re-scrapes every 6 hours.
+scrapes once immediately, then keeps running and re-scrapes at 06/09/12/15/18/21 UTC.
 
 Check logs in Portainer to confirm: `[run] scraped 1032 items` followed by
 either `[run] pushed update for ...` or `[run] nothing changed, skipping push`.

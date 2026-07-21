@@ -114,3 +114,5 @@ timestamp,value,demand,rarity,last_change,stability
 2026-07-21T15:00:00Z,0.002,1,1,0,Stable
 2026-07-21T18:00:00Z,185,3,5,5,Stable
 2026-07-21T18:00:00Z,0.002,1,1,0,Stable
+2026-07-21T21:00:00Z,185,3,5,0,Stable
+2026-07-21T21:00:00Z,0.002,1,1,0,Stable

@@ -287,3 +287,7 @@ timestamp,value,demand,rarity,last_change,stability
 2026-07-23T09:00:00Z,15,2,4,0,Stable
 2026-07-23T09:00:00Z,13,2,4,0,Stable
 2026-07-23T09:00:00Z,4,1,2,0,Underpaid For
+2026-07-23T12:00:00Z,60,3,4,0,Stable
+2026-07-23T12:00:00Z,15,2,4,0,Stable
+2026-07-23T12:00:00Z,13,2,4,0,Stable
+2026-07-23T12:00:00Z,4,1,2,0,Underpaid For

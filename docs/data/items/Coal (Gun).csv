@@ -190,3 +190,6 @@ timestamp,value,demand,rarity,last_change,stability
 2026-07-23T06:00:00Z,0.01,2,3,0,Stable
 2026-07-23T06:00:00Z,0.01,2,2,0,Stable
 2026-07-23T06:00:00Z,0.003,2,2,0,Stable
+2026-07-23T09:00:00Z,0.01,2,3,0,Stable
+2026-07-23T09:00:00Z,0.01,2,2,0,Stable
+2026-07-23T09:00:00Z,0.003,2,2,0,Stable

@@ -1,4 +1,431 @@
 name,category,value,demand,rarity,last_change,stability,origin
+Corrupt,uniques,470,4,3,0,Stable,Data Loss from MM1 - MM2 Update
+C. Traveler's Gun,chromas,220000,9,10,0,Stable,Halloween 2023 (Unboxed)
+Chroma Evergun,chromas,75000,8,8,0,Stable,Christmas 2023 (Gifting)
+Chroma Evergreen,chromas,52000,7,7,0,Underpaid For,Christmas 2023 (Unboxed)
+Chroma Bauble,chromas,34000,7,6,0,Stable,Christmas 2024 (Gifting)
+C. Vampire's Gun,chromas,29000,7,6,0,Stable,Halloween 2024 (Unboxed)
+C. Constellation,chromas,27000,7,6,0,Stable,Christmas 2024 (Unboxed)
+Chroma Alienbeam,chromas,24000,6,6,0,Stable,Halloween 2025 (Unboxed)
+Chroma Beachy,chromas,0,0,0,0,Overpaid For,Summer 2026 (Item Pack)
+Chroma Icecream,chromas,0,0,0,0,Overpaid For,Summer 2026 (Unboxed)
+Chroma Sands,chromas,0,0,0,0,Overpaid For,Summer 2026 (Item Pack)
+Chroma Sunrise,chromas,13250,6,5,0,Stable,Summer 2025 (Unboxed)
+Chroma Raygun,chromas,12750,6,5,0,Underpaid For,Halloween 2025 (Tier 25)
+Chroma Snowcannon,chromas,8500,6,5,0,Stable,Christmas 2025 (Tier 30)
+Chroma Sunset,chromas,8250,6,5,0,Stable,Summer 2025 (Tier 25)
+Chroma Blizzard,chromas,8000,5,5,0,Stable,Christmas 2025 (Item Pack)
+Chroma Snow Dagger,chromas,4250,5,5,0,Stable,Christmas 2025 (Unboxed)
+Chroma Snowstorm,chromas,4250,5,5,0,Stable,Christmas 2025 (Item Pack)
+Chroma Heart Wand,chromas,4250,5,4,0,Stable,Valentine's 2026 (Unboxed)
+Chroma Watergun,chromas,3400,5,5,0,Stable,Summer 2024 (Unboxed)
+Chroma Treat,chromas,2500,5,4,0,Fluctuating,Valentine's 2026 (Item Pack)
+Chroma Sweet,chromas,2200,5,4,0,Fluctuating,Valentine's 2026 (Item Pack)
+Chroma Ornament,chromas,1800,5,4,0,Stable,Christmas 2025 (Gifting)
+Chroma Darkbringer,chromas,65,1,2,0,Stable,Mystery Crate #2
+Chroma Lightbringer,chromas,60,1,2,0,Stable,Mystery Crate #2
+Chroma Luger,chromas,50,1,2,0,Stable,Gun Box #1
+Chroma Candleflame,chromas,40,1,2,0,Stable,Halloween 2021 (Unboxed)
+Chroma Laser,chromas,40,1,2,0,Stable,Gun Box #3
+Chroma Swirly Gun,chromas,38,1,2,0,Stable,Christmas 2021 (Unboxed)
+C. Elderwood Blade,chromas,37,1,2,0,Stable,Halloween 2022 (Unboxed)
+Chroma Deathshard,chromas,35,1,2,0,Stable,Knife Box #1
+Chroma Cookiecane,chromas,32,1,2,0,Stable,Christmas 2022 (Unboxed)
+Chroma Fang,chromas,32,1,2,0,Stable,Knife Box #2
+Chroma Gemstone,chromas,32,1,2,0,Stable,Mystery Crate #1
+Chroma Shark,chromas,32,1,2,0,Stable,Gun Box #2
+Chroma Slasher,chromas,32,1,2,0,Stable,Knife Box #4
+Chroma Heat,chromas,28,1,2,0,Stable,Rainbow Box
+Chroma Seer,chromas,28,1,2,0,Stable,Season 1 Crafting
+Chroma Gingerblade,chromas,27,1,2,0,Stable,Christmas 2018 (Unboxed)
+Chroma Tides,chromas,27,1,2,0,Stable,Knife Box #5
+Chroma Saw,chromas,23,1,2,0,Stable,Knife Box #3
+Chroma Boneblade,chromas,22,1,2,0,Stable,Halloween 2018 (Unboxed)
+Chroma Fire Bat,chromas,3,1,2,0,Underpaid For,Season 1 Pet Egg
+Chroma Fire Bear,chromas,3,1,2,0,Underpaid For,Season 1 Pet Egg
+Chroma Fire Bunny,chromas,3,1,2,0,Underpaid For,Season 1 Pet Egg
+Chroma Fire Cat,chromas,3,1,2,0,Underpaid For,Season 1 Pet Egg
+Chroma Fire Dog,chromas,3,1,2,0,Underpaid For,Season 1 Pet Egg
+Chroma Fire Fox,chromas,3,1,2,0,Underpaid For,Season 1 Pet Egg
+Chroma Fire Pig,chromas,3,1,2,0,Underpaid For,Season 1 Pet Egg
+Zombie Dog,pets,750,4,5,0,Stable,Halloween 2019 (Tier 25)
+Elf (2019),pets,425,3,5,0,Stable,Christmas 2019 (Tier 12)
+Blue Pumpkin,pets,220,3,4,0,Stable,Halloween 2018 (Tier 18)
+Dogey,pets,160,3,4,0,Stable,Classic Pet Box
+Black Cat,pets,125,3,4,0,Underpaid For,Halloween 2019 (Tier 5)
+Red Pumpkin,pets,120,3,4,0,Stable,Halloween 2018 (Tier 12)
+Green Pumpkin,pets,60,3,4,0,Stable,Halloween 2018 (Tier 9)
+Pumpkin (2017),pets,55,3,5,0,Stable,Halloween 2017 (Code: HW2017)
+Mr. Reindeer,pets,55,3,4,0,Stable,Christmas 2020 (Tier 10)
+Piggy,pets,55,3,3,0,Stable,Classic Pet Box
+Red Pumpkin,pets,25,2,4,0,Stable,Halloween 2020 (Tier 26)
+Elf,pets,20,2,4,0,Stable,Christmas 2016 (6 Blue Tokens)
+Red Pumpkin,pets,20,2,4,0,Stable,Halloween 2021 (Tier 27)
+Mr. Snowman,pets,17,2,3,0,Stable,Christmas 2020 (Tier 4)
+Green Pumpkin,pets,15,2,4,0,Stable,Halloween 2020 (Tier 18)
+Skully,pets,15,2,4,0,Stable,Halloween 2021 (Tier 21)
+Green Pumpkin,pets,13,2,4,0,Stable,Halloween 2021 (Tier 17)
+Blue Pumpkin,pets,8,2,3,0,Stable,Halloween 2020 (Tier 12)
+Shadow Pumpkin,pets,7,2,3,0,Stable,Halloween 2021 (Tier 11)
+<3,pets,7,1,3,0,Stable,Valentine's 2016 (400 Coins)
+Nobledragon,pets,5,1,2,0,Underpaid For,Classic Pet Box
+Chilly,pets,4,1,2,0,Underpaid For,Classic Pet Box
+Eyeball,pets,4,1,2,0,Underpaid For,Classic In-Game Shop (900 Coins)
+Fairy,pets,4,1,2,0,Underpaid For,Classic In-Game Shop (500 Coins)
+Green Pumpkin,pets,4,1,2,0,Underpaid For,Halloween 2019 (Tier 20)
+Jetstream,pets,4,1,2,0,Underpaid For,Classic In-Game Shop (800 Coins)
+Overseer Eye,pets,4,1,2,0,Underpaid For,"Classic In-Game Shop (2,000 Coins)"
+Pengy,pets,4,1,2,0,Underpaid For,Classic Pet Box
+Purple Pumpkin,pets,4,1,2,0,Underpaid For,Halloween 2018 (Tier 35)
+Red Pumpkin,pets,4,1,2,0,Underpaid For,Halloween 2019 (Tier 28)
+Reindeer,pets,4,1,2,0,Underpaid For,Christmas 2016 (20 Blue Tokens)
+Rudolph,pets,4,1,2,0,Underpaid For,Christmas 2019 (Tier 21)
+Seahorsey,pets,4,1,2,0,Underpaid For,Classic Pet Box
+Tankie,pets,4,1,2,0,Underpaid For,Classic Pet Box
+Vampire Bat,pets,4,1,2,0,Underpaid For,Halloween 2019 (Tier 31)
+Snowbear,pets,3,2,3,0,Stable,Christmas 2021 (Tier 4)
+Mechbug,pets,3,1,3,0,Underpaid For,Classic Pet Box
+UFO,pets,3,1,3,0,Underpaid For,Classic Pet Box
+Lil' Alien,pets,1,2,2,0,Stable,Halloween 2025 (Live Event)
+Blue Pumpkin,pets,1,1,3,0,Stable,Halloween 2019 (Tier 9)
+Badger,pets,1,1,2,0,Stable,Classic Pet Box
+Carrot Bunny,pets,0.45,2,2,0,Stable,Easter 2023 (Tier 3)
+Deathspeaker,pets,0.45,1,1,0,Stable,Classic Pet Box
+Electro,pets,0.45,1,1,0,Stable,Futuristic Item Pack
+Frostbird,pets,0.45,1,1,0,Stable,Christmas 2018 (Tier 100)
+Ice Phoenix,pets,0.45,1,1,0,Stable,Christmas 2017 (Item Pack)
+Icey,pets,0.45,1,1,0,Stable,Christmas 2019 (Item Pack)
+Phoenix,pets,0.45,1,1,0,Stable,8-Bit Item Pack
+Sammy,pets,0.45,1,1,0,Stable,American Item Pack
+Skelly,pets,0.45,1,1,0,Stable,Shadow Item Pack
+Steambird,pets,0.45,1,1,0,Stable,Steampunk Item Pack
+Traveller,pets,0.45,1,1,0,Stable,Halloween 2017 (Item Pack)
+Fire Bat,pets,0.3,1,1,0,Stable,Season 1 Pet Egg
+Fire Bear,pets,0.3,1,1,0,Stable,Season 1 Pet Egg
+Fire Bunny,pets,0.3,1,1,0,Stable,Season 1 Pet Egg
+Fire Cat,pets,0.3,1,1,0,Stable,Season 1 Pet Egg
+Fire Dog,pets,0.3,1,1,0,Stable,Season 1 Pet Egg
+Fire Fox,pets,0.3,1,1,0,Stable,Season 1 Pet Egg
+Fire Pig,pets,0.3,1,1,0,Stable,Season 1 Pet Egg
+Scarecrow,pets,0.15,2,3,0,Stable,Halloween 2020 (Tier 22)
+Pumpkin (2018),pets,0.15,2,2,0,Stable,Halloween 2018 (Tier 1)
+Teddy,pets,0.15,2,2,0,Stable,Valentine's 2023 (Tier 3)
+Pumpkin (2019),pets,0.015,1,2,0,Stable,Halloween 2019 (Tier 1)
+Bat,pets,0.015,1,1,0,Stable,Season 1 Pet Egg
+Santa Dog,pets,0.01,1,2,0,Stable,Christmas 2017 (10 Tokens)
+Elitey,pets,0.01,1,1,0,Stable,Buying Elite Gamepass
+Bear,pets,0.003,1,1,0,Stable,Season 1 Pet Egg
+Fox,pets,0.002,1,1,0,Stable,Season 1 Pet Egg
+Pig,pets,0.002,1,1,0,Stable,Season 1 Pet Egg
+Pumpkin (2020),pets,0.002,1,1,0,Stable,Halloween 2020 (Tier 1)
+Cat,pets,0.001,1,1,0,Stable,Season 1 Pet Egg
+Dog,pets,0.001,1,1,0,Stable,Season 1 Pet Egg
+Pumpkin (2021),pets,0.001,1,1,0,Stable,Halloween 2021 (Tier 1)
+Santa (2019),pets,35,2,4,0,0,Christmas 2019 (Tier 17)
+Ghosty,pets,1,1,2,0,0,Halloween 2019 (Item Pack)
+Snowman,pets,0.002,1,1,0,0,Christmas 2019 (Tier 1)
+Bunny,pets,0.001,1,1,0,0,Season 1 Pet Egg
+Bones,uncommons,240,3,5,0,Stable,Halloween 2019 (Unboxed)
+Brains,uncommons,155,3,4,0,Stable,Halloween 2019 (Unboxed)
+Zombified (Knife),uncommons,115,3,4,0,Stable,Halloween 2019 (Unboxed)
+Gingerbread (Knife),uncommons,75,3,4,0,Stable,Christmas 2019 (Tier 9)
+Sweater (Knife),uncommons,60,3,4,0,Stable,Christmas 2018 (Tier 14)
+Branches,uncommons,50,3,4,0,Stable,Halloween 2019 (Tier 10)
+Snowflake (Knife),uncommons,50,3,4,0,Stable,Christmas 2018 (Tier 8)
+Skulls,uncommons,15,3,4,0,Stable,Halloween 2021 (Tier 14)
+Zombified (Gun),uncommons,15,2,4,0,Stable,Halloween 2019 (Tier 6)
+Void,uncommons,12,2,3,0,Stable,Prime Gaming Promo
+Steel (Gun),uncommons,8,2,3,0,Stable,Halloween 2023 (Tier 15)
+Gothic (Gun),uncommons,7,2,4,0,Stable,Halloween 2021 (Tier 8)
+Zombie,uncommons,7,2,4,0,Stable,Halloween 2021 (Tier 18)
+Mummy (2017),uncommons,7,2,3,0,Stable,Halloween 2017 (Unboxed)
+Wrap (Gun),uncommons,5,2,3,0,Stable,Christmas 2020 (Unboxed)
+Wrap (Knife),uncommons,5,2,3,0,Stable,Christmas 2020 (Unboxed)
+Zombie (Gun),uncommons,5,1,3,0,Stable,Halloween 2018 (Tier 11)
+Floral,uncommons,0,0,0,0,,Summer 2026 (Unboxed)
+Neopolitan,uncommons,0,0,0,0,,Summer 2026 (Unboxed)
+Turtles,uncommons,0,0,0,0,,Summer 2026 (Unboxed)
+Snowman (Gun),uncommons,3,2,4,0,Stable,Christmas 2021 (Tier 13)
+Hazard (Gun),uncommons,3,2,3,0,Stable,Halloween 2022 (Tier 11)
+Webs,uncommons,3,2,3,0,Stable,Halloween 2017 (Unboxed)
+Zombie (2023),uncommons,3,2,3,0,Stable,Halloween 2023 (Tier 13)
+Frozen (Gun),uncommons,3,1,3,0,Stable,Christmas 2019 (Tier 16)
+Potion (2017),uncommons,3,1,3,0,Stable,Halloween 2017 (Unboxed)
+Gingerbread (Knife),uncommons,2,2,4,0,Stable,Christmas 2020 (Tier 6)
+Tree (2021),uncommons,2,2,4,0,Stable,Christmas 2021 (Tier 11)
+Lantern,uncommons,2,2,3,0,Stable,Halloween 2022 (Tier 14)
+Meltdown,uncommons,2,2,3,0,Stable,Halloween 2023 (Tier 19)
+Stars (Knife),uncommons,2,2,3,0,Stable,Christmas 2023 (Tier 10)
+Pumpkin Pie,uncommons,2,2,2,0,Stable,Thanksgiving 2023 (Tier 3)
+Lights (Gun),uncommons,2,1,3,0,Stable,Christmas 2019 (Tier 14)
+Mummy (Gun),uncommons,2,1,3,0,Stable,Halloween 2018 (Tier 8)
+Potion (Gun),uncommons,2,1,3,0,Stable,Halloween 2018 (Unboxed)
+Potion (Knife),uncommons,2,1,3,0,Stable,Halloween 2018 (Tier 14)
+Gingerbread (Gun),uncommons,1,2,3,0,Stable,Christmas 2019 (Unboxed)
+Gingerbread (Gun),uncommons,1,2,3,0,Stable,Christmas 2020 (Unboxed)
+Moonlight,uncommons,1,2,3,0,Stable,Halloween 2022 (Tier 15)
+Frozen (Knife),uncommons,1,1,3,0,Stable,Christmas 2019 (Unboxed)
+Holly (Gun),uncommons,1,1,3,0,Stable,Christmas 2018 (Tier 11)
+Lights (Knife),uncommons,1,1,3,0,Stable,Christmas 2019 (Unboxed)
+Mummy (Knife),uncommons,1,1,3,0,Stable,Halloween 2018 (Unboxed)
+Zombie (Knife),uncommons,1,1,3,0,Stable,Halloween 2018 (Unboxed)
+Moons,uncommons,1,1,2,0,Stable,Halloween 2016 (Unboxed)
+Vampire,uncommons,1,1,2,0,Stable,Halloween 2016 (Unboxed)
+Wolf,uncommons,1,1,2,0,Stable,Halloween 2016 (Unboxed)
+Gothic (Knife),uncommons,0.6,2,3,0,Stable,Halloween 2021 (Unboxed)
+Nutcracker,uncommons,0.6,1,3,0,Stable,Christmas 2015 (Unboxed)
+Snowman (Gun),uncommons,0.6,1,3,0,Stable,Christmas 2015 (Unboxed)
+Snowman (Knife),uncommons,0.6,1,3,0,Stable,Christmas 2015 (Unboxed)
+Snowy,uncommons,0.6,1,3,0,Stable,Christmas 2015 (Unboxed)
+Wrapped (Gun),uncommons,0.6,1,3,0,Stable,Christmas 2015 (Unboxed)
+Wrapped (Knife),uncommons,0.6,1,3,0,Stable,Christmas 2015 (Unboxed)
+Gifted,uncommons,0.6,1,2,0,Stable,Item Code (F1RSTC0D3)
+Cookie (Knife),uncommons,0.45,2,4,0,Stable,Christmas 2021 (Tier 9)
+Steel (Knife),uncommons,0.3,2,2,0,Stable,Halloween 2023 (Unboxed)
+Pool Noodle,uncommons,0.15,2,3,0,Stable,Summer 2023 (Tier 8)
+Snowflake (Knife),uncommons,0.15,2,3,0,Stable,Christmas 2022 (Tier 13)
+Wraiths (Knife),uncommons,0.15,2,3,0,Stable,Halloween 2021 (Tier 12)
+Mistletoe (Gun),uncommons,0.09,2,3,0,Stable,Christmas 2022 (Tier 11)
+Hazard (Knife),uncommons,0.09,2,2,0,Stable,Halloween 2022 (Unboxed)
+Gingerheart,uncommons,0.06,2,2,0,Stable,Christmas 2024 (Tier 9)
+Love (Gun),uncommons,0.06,2,2,0,Stable,Crafting
+Rose,uncommons,0.06,2,2,0,Stable,Valentine's 2023 (Tier 2)
+Canes (Gun),uncommons,0.03,2,2,0,Stable,Christmas 2023 (Tier 11)
+Cookie (Gun),uncommons,0.03,2,2,0,Stable,Christmas 2021 (Unboxed)
+Fireplace,uncommons,0.03,2,2,0,Stable,Christmas 2023 (Tier 13)
+Forest,uncommons,0.03,2,2,0,Stable,Christmas 2024 (Tier 8)
+Marble,uncommons,0.03,2,2,0,Stable,Easter 2023 (Egg Bingo)
+Melon,uncommons,0.03,2,2,0,Stable,Summer 2023 (Tier 7)
+Mummy (Knife),uncommons,0.03,2,2,0,Stable,Halloween 2020 (Tier 6)
+Snowflake (Gun),uncommons,0.03,2,2,0,Stable,Christmas 2018 (Unboxed)
+Snowman (Knife),uncommons,0.03,2,2,0,Stable,Christmas 2021 (Unboxed)
+Wrapped (Gun),uncommons,0.03,2,2,0,Stable,Christmas 2024 (Tier 12)
+Frosty,uncommons,0.03,1,3,0,Stable,Christmas 2017 (Unboxed)
+Holly (Knife),uncommons,0.03,1,2,0,Stable,Christmas 2018 (Unboxed)
+Stockings (Knife),uncommons,0.02,2,3,0,Stable,Christmas 2022 (Tier 10)
+Brains (2022),uncommons,0.02,2,2,0,Stable,Halloween 2022 (Unboxed)
+Carrot,uncommons,0.02,2,2,0,Stable,Easter 2023 (Tier 2)
+Carrot (Gun),uncommons,0.02,2,2,0,Stable,Easter 2024 (Tier 3)
+Carrot (Knife),uncommons,0.02,2,2,0,Stable,Easter 2024 (6 Rare Eggs)
+Clown (Gun),uncommons,0.02,2,2,0,Stable,Halloween 2024 (Tier 13)
+Fall Camo,uncommons,0.02,2,2,0,Stable,Halloween 2021 (Unboxed)
+Floatie,uncommons,0.02,2,2,0,Stable,Summer 2024 (Tier 4)
+Gingerbread (Gun),uncommons,0.02,2,2,0,Stable,Christmas 2021 (Unboxed)
+Monster,uncommons,0.02,2,2,0,Stable,Halloween 2024 (Tier 10)
+Moons (2024),uncommons,0.02,2,2,0,Stable,Halloween 2024 (Tier 11)
+Mummy (Gun),uncommons,0.02,2,2,0,Stable,Halloween 2020 (Unboxed)
+Painted (Gun),uncommons,0.02,2,2,0,Stable,Easter 2023 (Egg Bingo)
+Snowflake (Gun),uncommons,0.02,2,2,0,Stable,Christmas 2022 (Unboxed)
+Sweater (Gun),uncommons,0.02,2,2,0,Stable,Christmas 2018 (Unboxed)
+Witchbrew,uncommons,0.02,2,2,0,Stable,Halloween 2022 (Unboxed)
+Wraiths (Gun),uncommons,0.02,2,2,0,Stable,Halloween 2021 (Unboxed)
+Stars (Gun),uncommons,0.02,2,1,0,Stable,Christmas 2023 (Unboxed)
+Sweater,uncommons,0.02,1,3,0,Stable,Christmas 2017 (Unboxed)
+Tree (2017),uncommons,0.02,1,3,0,Stable,Christmas 2017 (Unboxed)
+Checkers,uncommons,0.02,1,2,0,Stable,Crafting
+Decorated,uncommons,0.02,1,2,0,Stable,Easter 2025 (Tier 3)
+Eclipse,uncommons,0.02,1,2,0,Stable,Halloween 2023 (Unboxed)
+Eyes,uncommons,0.02,1,2,0,Stable,Halloween 2025 (Tier 13)
+Future,uncommons,0.02,1,2,0,Stable,Crafting
+Gingerbread (Gun),uncommons,0.02,1,2,0,Stable,Christmas 2025 (Tier 16)
+Glowy,uncommons,0.02,1,2,0,Stable,Halloween 2023 (Unboxed)
+Lava (Knife),uncommons,0.02,1,2,0,Stable,Summer 2025 (Tier 13)
+Meadow,uncommons,0.02,1,2,0,Stable,Easter 2025 (6 Rare Eggs)
+Mistletoe (Knife),uncommons,0.02,1,2,0,Stable,Christmas 2022 (Unboxed)
+Night,uncommons,0.02,1,2,0,Stable,Crafting
+Polar Bear,uncommons,0.02,1,2,0,Stable,Christmas 2025 (Tier 18)
+Pool,uncommons,0.02,1,2,0,Stable,Summer 2025 (Tier 8)
+Popsicle,uncommons,0.02,1,2,0,Stable,Summer 2023 (Tier 6)
+Pumpkin (2025),uncommons,0.02,1,2,0,Stable,Halloween 2025 (Tier 9)
+Soda (Gun),uncommons,0.02,1,2,0,Stable,Summer 2025 (Tier 10)
+Stockings (Gun),uncommons,0.02,1,2,0,Stable,Christmas 2022 (Unboxed)
+Sweater (Knife),uncommons,0.02,1,2,0,Stable,Christmas 2025 (Tier 14)
+Treats (Gun),uncommons,0.02,1,2,0,Stable,Halloween 2025 (Tier 11)
+Canes (Knife),uncommons,0.02,1,1,0,Stable,Christmas 2023 (Unboxed)
+Snowman (2023),uncommons,0.02,1,1,0,Stable,Christmas 2023 (Unboxed)
+Ghostly,uncommons,0.015,2,2,0,Stable,Halloween 2022 (Catalog Promo)
+Ghosts (Knife),uncommons,0.015,2,2,0,Stable,Halloween 2020 (Unboxed)
+Portal (Gun),uncommons,0.015,2,2,0,Stable,Halloween 2020 (Tier 9)
+Pumpkin (Knife),uncommons,0.015,2,2,0,Stable,Halloween 2020 (Unboxed)
+Donut,uncommons,0.015,1,2,0,Stable,Crafting
+Abduction,uncommons,0.015,1,1,0,Stable,Halloween 2025 (Unboxed)
+Blossom,uncommons,0.015,1,1,0,Stable,Valentine's 2026 (Unboxed)
+Bones (Knife),uncommons,0.015,1,1,0,Stable,Halloween 2024 (Unboxed)
+Gingerbread (Knife),uncommons,0.015,1,1,0,Stable,Christmas 2025 (Unboxed)
+Jellyfish,uncommons,0.015,1,1,0,Stable,Summer 2024 (Unboxed)
+Lava (Gun),uncommons,0.015,1,1,0,Stable,Summer 2025 (Unboxed)
+Leaves,uncommons,0.015,1,1,0,Stable,Halloween 2024 (Unboxed)
+Ornaments,uncommons,0.015,1,1,0,Stable,Christmas 2025 (Unboxed)
+Paws,uncommons,0.015,1,1,0,Stable,Valentine's 2026 (Unboxed)
+Popsicle (Gun),uncommons,0.015,1,1,0,Stable,Summer 2024 (Unboxed)
+Pumpkin Patch,uncommons,0.015,1,1,0,Stable,Halloween 2025 (Unboxed)
+Retro,uncommons,0.015,1,1,0,Stable,Summer 2025 (Unboxed)
+Snowman (2024),uncommons,0.015,1,1,0,Stable,Christmas 2024 (Unboxed)
+Soda (Knife),uncommons,0.015,1,1,0,Stable,Summer 2025 (Unboxed)
+Starry,uncommons,0.015,1,1,0,Stable,Valentine's 2026 (Unboxed)
+Sweater (Gun),uncommons,0.015,1,1,0,Stable,Christmas 2025 (Unboxed)
+Treats (Knife),uncommons,0.015,1,1,0,Stable,Halloween 2025 (Unboxed)
+Turtle,uncommons,0.015,1,1,0,Stable,Summer 2024 (Unboxed)
+Witch's Brew,uncommons,0.015,1,1,0,Stable,Halloween 2024 (Unboxed)
+Wrapped (Knife),uncommons,0.015,1,1,0,Stable,Christmas 2024 (Unboxed)
+Wreaths,uncommons,0.015,1,1,0,Stable,Christmas 2024 (Unboxed)
+Doge,uncommons,0.004,2,1,0,Stable,Knife Box #3
+Sketch,uncommons,0.004,2,1,0,Stable,Gun Box #2
+Adurite (Gun),uncommons,0.004,1,1,0,Stable,Gun Box #1
+Adurite (Knife),uncommons,0.004,1,1,0,Stable,Knife Box #1
+Biogun,uncommons,0.004,1,1,0,Stable,Mystery Box #2
+Blue,uncommons,0.004,1,1,0,Stable,Rainbow Box
+Bluesteel (Gun),uncommons,0.004,1,1,0,Stable,Gun Box #1
+Bluesteel (Knife),uncommons,0.004,1,1,0,Stable,Knife Box #1
+Brush,uncommons,0.004,1,1,0,Stable,Knife Box #5
+Camo (Gun),uncommons,0.004,1,1,0,Stable,Gun Box #1
+Camo (Knife),uncommons,0.004,1,1,0,Stable,Mystery Box #1
+Caution,uncommons,0.004,1,1,0,Stable,Gun Box #3
+Cheddar,uncommons,0.004,1,1,0,Stable,Gun Box #2
+Cheesy,uncommons,0.004,1,1,0,Stable,Knife Box #2
+Circuit,uncommons,0.004,1,1,0,Stable,Knife Box #3
+Hazmat,uncommons,0.004,1,1,0,Stable,Knife Box #4
+Hive,uncommons,0.004,1,1,0,Stable,Knife Box #4
+Jigsaw,uncommons,0.004,1,1,0,Stable,Knife Box #5
+Lucky,uncommons,0.004,1,1,0,Stable,Knife Box #5
+Marina,uncommons,0.004,1,1,0,Stable,Gun Box #2
+Melon,uncommons,0.004,1,1,0,Stable,Knife Box #4
+Missing,uncommons,0.004,1,1,0,Stable,Knife Box #2
+Paper,uncommons,0.004,1,1,0,Stable,Knife Box #3
+Pink,uncommons,0.004,1,1,0,Stable,Rainbow Box
+Pirate,uncommons,0.004,1,1,0,Stable,Mystery Box #1
+Red,uncommons,0.004,1,1,0,Stable,Rainbow Box
+Soda,uncommons,0.004,1,1,0,Stable,Gun Box #3
+Stalker,uncommons,0.004,1,1,0,Stable,Knife Box #2
+Tiger,uncommons,0.004,1,1,0,Stable,Mystery Box #1
+Wanwood,uncommons,0.004,1,1,0,Stable,Knife Box #1
+Wooden,uncommons,0.004,1,1,0,Stable,Gun Box #3
+Graffiti,uncommons,0.003,1,1,0,Stable,Mystery Box #2
+High Tech,uncommons,0.003,1,1,0,Stable,Mystery Box #2
+Cane (Knife),rares,650,4,5,0,Improving,Christmas 2018 (Tier 30)
+Dungeon,rares,300,3,5,0,Receding,Halloween 2019 (Unboxed)
+Darkknife,rares,75,3,4,0,Stable,Halloween 2023 (Tier 25)
+Silent Night (Knife),rares,50,2,4,0,Stable,Christmas 2020 (Tier 15)
+Makeshift (Knife),rares,45,3,4,0,Stable,"Halloween 2022 (Survivor, Tier 17)"
+Zombified,rares,40,3,4,0,Stable,"Halloween 2022 (Zombie, Tier 17)"
+Starry (Gun),rares,27,2,4,0,Stable,Christmas 2021 (Tier 17)
+Swirl,rares,27,2,4,0,Stable,Christmas 2021 (Tier 15)
+Watcher (Gun),rares,25,2,4,0,Stable,Halloween 2021 (Tier 24)
+Magma (Gun),rares,17,2,4,0,Stable,Halloween 2021 (Tier 20)
+Silent Night (Gun),rares,12,2,3,0,Stable,Christmas 2020 (Unboxed)
+Floral (Knife),rares,10,2,3,0,Stable,Summer 2023 (Tier 10)
+Snowflakes,rares,10,2,3,0,Stable,Christmas 2020 (Unboxed)
+Aurora (Knife),rares,8,2,3,0,Stable,Christmas 2019 (Tier 20)
+Ghostfire,rares,8,2,3,0,Stable,Halloween 2022 (Tier 18)
+Toxic (Knife),rares,7,2,3,0,Stable,Halloween 2018 (Tier 30)
+Ghastly (Gun),rares,5,2,4,0,Stable,Halloween 2023 (Tier 21)
+Icicles (Gun),rares,5,2,3,0,Stable,Christmas 2018 (Tier 22)
+Candy Swirl (Gun),rares,3,2,3,0,Stable,Christmas 2019 (Tier 24)
+Jack,rares,3,2,3,0,Stable,Halloween 2015 (Bingo)
+Snakebite (Knife),rares,3,2,3,0,Stable,Halloween 2019 (Tier 23)
+Sun,rares,3,2,3,0,Stable,Summer 2023 (Tier 9)
+Vampire (Gun),rares,3,2,3,0,Stable,Halloween 2018 (Tier 22)
+Wraith (Knife),rares,3,2,3,0,Stable,Halloween 2022 (Tier 13)
+Magma,rares,3,1,3,0,Stable,Halloween 2017 (Unboxed)
+Bats,rares,2,1,3,0,Stable,Halloween 2016 (Unboxed)
+Green Marble,rares,2,1,3,0,Stable,Halloween 2017 (Unboxed)
+Orange Marble,rares,2,1,3,0,Stable,Halloween 2016 (Unboxed)
+Toxic (Gun),rares,2,1,2,0,Stable,Halloween 2018 (Unboxed)
+Darkgun,rares,1,2,3,0,Stable,Halloween 2023 (Unboxed)
+Gingerbread,rares,1,1,3,0,Stable,Christmas 2017 (Unboxed)
+Monster,rares,1,1,3,0,Stable,Halloween 2019 (Tier 15)
+Aurora (Gun),rares,1,1,2,0,Stable,Christmas 2019 (Unboxed)
+Candy Swirl (Knife),rares,1,1,2,0,Stable,Christmas 2019 (Unboxed)
+Snakebite (Gun),rares,1,1,2,0,Stable,Halloween 2019 (Unboxed)
+Vampire (Knife),rares,1,1,2,0,Stable,Halloween 2018 (Unboxed)
+Pier,rares,0,0,0,0,,Summer 2026 (Unboxed)
+Sunset,rares,0,0,0,0,,Summer 2026 (Unboxed)
+Gingerbread (Gun),rares,0.6,2,3,0,Stable,Christmas 2022 (Tier 15)
+Starry (Knife),rares,0.6,2,3,0,Stable,Christmas 2021 (Unboxed)
+Cane (Gun),rares,0.6,1,3,0,Stable,Christmas 2015 (Unboxed)
+Cane (Knife),rares,0.6,1,3,0,Stable,Christmas 2015 (Unboxed)
+Ginger (Gun),rares,0.6,1,3,0,Stable,Christmas 2015 (Unboxed)
+Ginger (Knife),rares,0.6,1,3,0,Stable,Christmas 2015 (Unboxed)
+Mummy,rares,0.6,1,3,0,Stable,Halloween 2015 (Bingo Challenge)
+Nuke,rares,0.45,2,3,0,Stable,Easter 2023 (Egg Bingo)
+Cane (Gun),rares,0.45,2,2,0,Stable,Christmas 2018 (Unboxed)
+Magma (Knife),rares,0.45,2,2,0,Stable,Halloween 2021 (Unboxed)
+Watcher (Knife),rares,0.45,2,2,0,Stable,Halloween 2021 (Unboxed)
+Snowy,rares,0.45,1,4,0,Stable,Christmas 2017 (Unboxed)
+Icicles (Knife),rares,0.45,1,2,0,Stable,Christmas 2018 (Unboxed)
+Ghastly (Knife),rares,0.3,2,3,0,Stable,Halloween 2023 (Unboxed)
+Ice Camo,rares,0.3,2,2,0,Stable,Christmas 2021 (Unboxed)
+Logcutter,rares,0.3,2,2,0,Stable,Christmas 2024 (Tier 15)
+Molten (Gun),rares,0.3,2,2,0,Stable,Crafting
+Molten (Knife),rares,0.3,2,2,0,Stable,Crafting
+Butterflies,rares,0.15,2,3,0,Stable,Easter 2025 (8 Rare Eggs)
+Heart,rares,0.15,2,3,0,Stable,Valentine's 2023 (Tier 4)
+Neon,rares,0.15,2,3,0,Stable,Christmas 2023 (Tier 17)
+Candleflame (Gun),rares,0.15,2,2,0,Stable,Halloween 2024 (Tier 17)
+Damp,rares,0.15,2,2,0,Stable,Crafting
+Frostflame (Knife),rares,0.15,2,2,0,Stable,Christmas 2024 (Tier 17)
+Gingerbread (Knife),rares,0.15,2,2,0,Stable,Christmas 2022 (Unboxed)
+Nether,rares,0.15,2,2,0,Stable,Crafting
+Painted (Knife),rares,0.15,2,2,0,Stable,Easter 2023 (Tier 4)
+Spitfire,rares,0.15,2,2,0,Stable,Crafting
+Storm,rares,0.15,2,2,0,Stable,Halloween 2024 (Tier 15)
+Wraith (Gun),rares,0.15,2,2,0,Stable,Halloween 2022 (Unboxed)
+Tree (2023),rares,0.09,2,3,0,Stable,Christmas 2023 (Tier 15)
+Tree (Knife),rares,0.09,2,3,0,Stable,Christmas 2022 (Tier 17)
+Bio,rares,0.09,2,2,0,Stable,Easter 2023 (Egg Bingo)
+Bones (Knife),rares,0.09,2,2,0,Stable,Halloween 2020 (Unboxed)
+Curse,rares,0.09,2,2,0,Stable,Halloween 2022 (Unboxed)
+Frostflame (Gun),rares,0.09,2,2,0,Stable,Christmas 2024 (Unboxed)
+Ghosts (Gun),rares,0.09,2,2,0,Stable,Halloween 2020 (Tier 24)
+Gingercookie (Knife),rares,0.09,2,2,0,Stable,Christmas 2025 (Tier 26)
+Hologram (Gun),rares,0.09,2,2,0,Stable,Halloween 2025 (Tier 19)
+Pop Art (Knife),rares,0.09,2,2,0,Stable,Summer 2025 (Tier 19)
+Spearmint (Gun),rares,0.09,2,2,0,Stable,Christmas 2025 (Tier 20)
+Xeno (Knife),rares,0.09,2,2,0,Stable,Halloween 2025 (Tier 21)
+Sunny,rares,0.09,1,1,0,Stable,Easter 2025 (Tier 4)
+Tropical,rares,0.09,1,1,0,Stable,Summer 2025 (Tier 21)
+Hologram (Knife),rares,0.06,2,2,0,Stable,Halloween 2025 (Unboxed)
+Portal (Knife),rares,0.06,2,2,0,Stable,Halloween 2020 (Unboxed)
+Tree (Gun),rares,0.06,2,2,0,Stable,Christmas 2022 (Unboxed)
+Xeno (Gun),rares,0.06,2,2,0,Stable,Halloween 2025 (Unboxed)
+Kraken,rares,0.06,1,2,0,Stable,Halloween 2024 (Unboxed)
+Ritual,rares,0.06,1,2,0,Stable,Halloween 2024 (Unboxed)
+Snowflake,rares,0.06,1,2,0,Stable,Christmas 2023 (Unboxed)
+Snowglobe,rares,0.06,1,2,0,Stable,Christmas 2023 (Unboxed)
+Floral (Gun),rares,0.06,1,1,0,Stable,Summer 2024 (Unboxed)
+Gingercookie (Gun),rares,0.06,1,1,0,Stable,Christmas 2025 (Unboxed)
+Heartbreak,rares,0.06,1,1,0,Stable,Valentine's 2026 (Unboxed)
+Neon,rares,0.06,1,1,0,Stable,Summer 2025 (Unboxed)
+Pop Art (Gun),rares,0.06,1,1,0,Stable,Summer 2025 (Unboxed)
+Robot,rares,0.06,1,1,0,Stable,Easter 2024 (8 Rare Eggs)
+Sharky,rares,0.06,1,1,0,Stable,Summer 2024 (Tier 7)
+Sleigh,rares,0.06,1,1,0,Stable,Christmas 2024 (Unboxed)
+Spearmint (Knife),rares,0.06,1,1,0,Stable,Christmas 2025 (Unboxed)
+Spring,rares,0.06,1,1,0,Stable,Easter 2024 (Tier 5)
+Waves,rares,0.06,1,1,0,Stable,Summer 2024 (Unboxed)
+Yummy,rares,0.06,1,1,0,Stable,Valentine's 2026 (Unboxed)
+Black,rares,0.025,2,1,0,Stable,Rainbow Box
+Abstract,rares,0.025,1,1,0,Stable,Knife Box #5
+Ace,rares,0.025,1,1,0,Stable,Gun Box #3
+Bacon,rares,0.025,1,1,0,Stable,Gun Box #3
+Galactic,rares,0.025,1,1,0,Stable,Gun Box #1
+Galaxy,rares,0.025,1,1,0,Stable,Knife Box #1
+Hacker,rares,0.025,1,1,0,Stable,Gun Box #2
+Imbued,rares,0.025,1,1,0,Stable,Gun Box #1
+iRevolver,rares,0.025,1,1,0,Stable,Gun Box #2
+Korblox,rares,0.025,1,1,0,Stable,Knife Box #4
+Krypto,rares,0.025,1,1,0,Stable,Knife Box #2
+Musical,rares,0.025,1,1,0,Stable,Knife Box #5
+Nightfire,rares,0.025,1,1,0,Stable,Mystery Box #2
+Nova,rares,0.025,1,1,0,Stable,Knife Box #3
+Purple,rares,0.025,1,1,0,Stable,Rainbow Box
+Rainbow (Gun),rares,0.025,1,1,0,Stable,Mystery Box #1
+Rainbow (Knife),rares,0.025,1,1,0,Stable,Knife Box #1
+Space,rares,0.025,1,1,0,Stable,Mystery Box #1
+Spectrum,rares,0.025,1,1,0,Stable,Knife Box #2
+Squire,rares,0.025,1,1,0,Stable,Knife Box #4
+Vortex,rares,0.025,1,1,0,Stable,Knife Box #3
+Deep Sea,rares,0.02,1,1,0,Stable,Mystery Box #2
 Glitch1,commons,70,3,3,0,Stable,Godly Batwing Deletion
 Glitch2,commons,45,2,3,0,Stable,Black Luger Deletion
 Bats (Knife),commons,190,3,5,0,Stable,Halloween 2018 (Tier 5)
@@ -279,159 +706,19 @@ Star,commons,0.001,1,1,0,Stable,Gun Box #2
 Static,commons,0.001,1,1,0,Stable,Knife Box #5
 Whiteout,commons,0.001,1,1,0,Stable,Knife Box #1
 Yellow,commons,0.001,1,1,0,Stable,Rainbow Box
-Zombie Dog,pets,750,4,5,0,Stable,Halloween 2019 (Tier 25)
-Elf (2019),pets,425,3,5,0,Stable,Christmas 2019 (Tier 12)
-Blue Pumpkin,pets,220,3,4,0,Stable,Halloween 2018 (Tier 18)
-Dogey,pets,160,3,4,0,Stable,Classic Pet Box
-Black Cat,pets,125,3,4,0,Underpaid For,Halloween 2019 (Tier 5)
-Red Pumpkin,pets,120,3,4,0,Stable,Halloween 2018 (Tier 12)
-Green Pumpkin,pets,60,3,4,0,Stable,Halloween 2018 (Tier 9)
-Pumpkin (2017),pets,55,3,5,0,Stable,Halloween 2017 (Code: HW2017)
-Mr. Reindeer,pets,55,3,4,0,Stable,Christmas 2020 (Tier 10)
-Piggy,pets,55,3,3,0,Stable,Classic Pet Box
-Red Pumpkin,pets,25,2,4,0,Stable,Halloween 2020 (Tier 26)
-Elf,pets,20,2,4,0,Stable,Christmas 2016 (6 Blue Tokens)
-Red Pumpkin,pets,20,2,4,0,Stable,Halloween 2021 (Tier 27)
-Mr. Snowman,pets,17,2,3,0,Stable,Christmas 2020 (Tier 4)
-Green Pumpkin,pets,15,2,4,0,Stable,Halloween 2020 (Tier 18)
-Skully,pets,15,2,4,0,Stable,Halloween 2021 (Tier 21)
-Green Pumpkin,pets,13,2,4,0,Stable,Halloween 2021 (Tier 17)
-Blue Pumpkin,pets,8,2,3,0,Stable,Halloween 2020 (Tier 12)
-Shadow Pumpkin,pets,7,2,3,0,Stable,Halloween 2021 (Tier 11)
-<3,pets,7,1,3,0,Stable,Valentine's 2016 (400 Coins)
-Nobledragon,pets,5,1,2,0,Underpaid For,Classic Pet Box
-Chilly,pets,4,1,2,0,Underpaid For,Classic Pet Box
-Eyeball,pets,4,1,2,0,Underpaid For,Classic In-Game Shop (900 Coins)
-Fairy,pets,4,1,2,0,Underpaid For,Classic In-Game Shop (500 Coins)
-Green Pumpkin,pets,4,1,2,0,Underpaid For,Halloween 2019 (Tier 20)
-Jetstream,pets,4,1,2,0,Underpaid For,Classic In-Game Shop (800 Coins)
-Overseer Eye,pets,4,1,2,0,Underpaid For,"Classic In-Game Shop (2,000 Coins)"
-Pengy,pets,4,1,2,0,Underpaid For,Classic Pet Box
-Purple Pumpkin,pets,4,1,2,0,Underpaid For,Halloween 2018 (Tier 35)
-Red Pumpkin,pets,4,1,2,0,Underpaid For,Halloween 2019 (Tier 28)
-Reindeer,pets,4,1,2,0,Underpaid For,Christmas 2016 (20 Blue Tokens)
-Rudolph,pets,4,1,2,0,Underpaid For,Christmas 2019 (Tier 21)
-Seahorsey,pets,4,1,2,0,Underpaid For,Classic Pet Box
-Tankie,pets,4,1,2,0,Underpaid For,Classic Pet Box
-Vampire Bat,pets,4,1,2,0,Underpaid For,Halloween 2019 (Tier 31)
-Snowbear,pets,3,2,3,0,Stable,Christmas 2021 (Tier 4)
-Mechbug,pets,3,1,3,0,Underpaid For,Classic Pet Box
-UFO,pets,3,1,3,0,Underpaid For,Classic Pet Box
-Lil' Alien,pets,1,2,2,0,Stable,Halloween 2025 (Live Event)
-Blue Pumpkin,pets,1,1,3,0,Stable,Halloween 2019 (Tier 9)
-Badger,pets,1,1,2,0,Stable,Classic Pet Box
-Carrot Bunny,pets,0.45,2,2,0,Stable,Easter 2023 (Tier 3)
-Deathspeaker,pets,0.45,1,1,0,Stable,Classic Pet Box
-Electro,pets,0.45,1,1,0,Stable,Futuristic Item Pack
-Frostbird,pets,0.45,1,1,0,Stable,Christmas 2018 (Tier 100)
-Ice Phoenix,pets,0.45,1,1,0,Stable,Christmas 2017 (Item Pack)
-Icey,pets,0.45,1,1,0,Stable,Christmas 2019 (Item Pack)
-Phoenix,pets,0.45,1,1,0,Stable,8-Bit Item Pack
-Sammy,pets,0.45,1,1,0,Stable,American Item Pack
-Skelly,pets,0.45,1,1,0,Stable,Shadow Item Pack
-Steambird,pets,0.45,1,1,0,Stable,Steampunk Item Pack
-Traveller,pets,0.45,1,1,0,Stable,Halloween 2017 (Item Pack)
-Fire Bat,pets,0.3,1,1,0,Stable,Season 1 Pet Egg
-Fire Bear,pets,0.3,1,1,0,Stable,Season 1 Pet Egg
-Fire Bunny,pets,0.3,1,1,0,Stable,Season 1 Pet Egg
-Fire Cat,pets,0.3,1,1,0,Stable,Season 1 Pet Egg
-Fire Dog,pets,0.3,1,1,0,Stable,Season 1 Pet Egg
-Fire Fox,pets,0.3,1,1,0,Stable,Season 1 Pet Egg
-Fire Pig,pets,0.3,1,1,0,Stable,Season 1 Pet Egg
-Scarecrow,pets,0.15,2,3,0,Stable,Halloween 2020 (Tier 22)
-Pumpkin (2018),pets,0.15,2,2,0,Stable,Halloween 2018 (Tier 1)
-Teddy,pets,0.15,2,2,0,Stable,Valentine's 2023 (Tier 3)
-Pumpkin (2019),pets,0.015,1,2,0,Stable,Halloween 2019 (Tier 1)
-Bat,pets,0.015,1,1,0,Stable,Season 1 Pet Egg
-Santa Dog,pets,0.01,1,2,0,Stable,Christmas 2017 (10 Tokens)
-Elitey,pets,0.01,1,1,0,Stable,Buying Elite Gamepass
-Bear,pets,0.003,1,1,0,Stable,Season 1 Pet Egg
-Fox,pets,0.002,1,1,0,Stable,Season 1 Pet Egg
-Pig,pets,0.002,1,1,0,Stable,Season 1 Pet Egg
-Pumpkin (2020),pets,0.002,1,1,0,Stable,Halloween 2020 (Tier 1)
-Cat,pets,0.001,1,1,0,Stable,Season 1 Pet Egg
-Dog,pets,0.001,1,1,0,Stable,Season 1 Pet Egg
-Pumpkin (2021),pets,0.001,1,1,0,Stable,Halloween 2021 (Tier 1)
-Santa (2019),pets,35,2,4,0,0,Christmas 2019 (Tier 17)
-Ghosty,pets,1,1,2,0,0,Halloween 2019 (Item Pack)
-Snowman,pets,0.002,1,1,0,0,Christmas 2019 (Tier 1)
-Bunny,pets,0.001,1,1,0,0,Season 1 Pet Egg
-Latte (Gun),legendaries,155,3,3,0,Stable,Thanksgiving 2023 (Item Pack)
-Latte (Knife),legendaries,155,3,3,0,Stable,Thanksgiving 2023 (Item Pack)
-Spectral (Knife),legendaries,60,3,4,0,Stable,Halloween 2021 (Tier 29)
-Traveler (Gun),legendaries,60,3,4,0,Stable,Halloween 2023 (Tier 29)
-Aurora (Gun),legendaries,55,3,4,0,Stable,Christmas 2021 (Tier 19)
-Vampire (Gun),legendaries,55,3,4,0,Stable,Halloween 2022 (Tier 19)
-Cotton Candy,legendaries,40,2,2,0,Stable,Candy Tycoon Promo
-Beach,legendaries,35,2,3,0,Stable,Summer 2023 (Tier 12)
-JD,legendaries,28,2,2,0,Stable,JD Giveaway
-Arctic (Gun),legendaries,10,2,4,0,Stable,Christmas 2022 (Tier 19)
-Cavern (Knife),legendaries,7,2,3,0,Stable,Christmas 2019 (Tier 29)
-Broken,legendaries,7,2,2,0,Stable,Valentine's 2023 (Tier 5)
-Icedriller,legendaries,5,2,2,0,Stable,Christmas 2020 (Tier 19)
-Nightsky,legendaries,5,2,2,0,Stable,Christmas 2024 (Tier 19)
-Ghost (Knife),legendaries,5,1,3,0,Stable,Halloween 2018 (Tier 50)
-Ginger (Gun),legendaries,5,1,3,0,Stable,Christmas 2018 (Tier 50)
-Bunnies,legendaries,4,2,2,0,Stable,Easter 2025 (Tier 6)
-Red Scratch,legendaries,4,1,3,0,Stable,Halloween 2016 (Unboxed)
-Skulls,legendaries,4,1,3,0,Stable,Halloween 2019 (Unboxed)
-Aurora (Knife),legendaries,3,2,2,0,Stable,Christmas 2021 (Unboxed)
-Spectral (Gun),legendaries,3,2,2,0,Stable,Halloween 2021 (Unboxed)
-Traveler (Knife),legendaries,3,2,2,0,Stable,Halloween 2023 (Unboxed)
-Vampire (Knife),legendaries,3,2,2,0,Stable,Halloween 2022 (Unboxed)
-Witched,legendaries,3,2,2,0,Stable,Halloween 2019 (Tier 35)
-Blue Elite,legendaries,3,1,3,0,Stable,Christmas 2017 (Buying Elite Gamepass)
-Green Elite,legendaries,3,1,3,0,Stable,Christmas 2015 (Buying Elite Gamepass)
-Santa's Magic,legendaries,3,1,3,0,Stable,Christmas 2019 (Santa's Challenge)
-Santa's Spirit,legendaries,3,1,3,0,Stable,Christmas 2020 (Santa's Challenge)
-Energized (Gun),legendaries,2,2,2,0,Stable,Halloween 2025 (Tier 23)
-Frostfade (Knife),legendaries,2,2,2,0,Stable,Christmas 2023 (Tier 19)
-Blue Scratch,legendaries,2,1,3,0,Stable,Halloween 2017 (Unboxed)
-Ghost (Gun),legendaries,2,1,3,0,Stable,Halloween 2018 (Unboxed)
-Chromatic (Knife),legendaries,1,2,2,0,Stable,Easter 2023 (Egg Bingo)
-Icecracker,legendaries,1,2,2,0,Stable,Christmas 2020 (Unboxed)
-Red Fire,legendaries,1,1,3,0,Stable,Christmas 2017 (Completing All Challenges)
-Cavern (Gun),legendaries,1,1,2,0,Stable,Christmas 2019 (Unboxed)
-Bubbles,legendaries,0,0,0,0,Doing Well,Summer 2026 (Unboxed)
-Arctic (Knife),legendaries,0.6,2,2,0,Stable,Christmas 2022 (Unboxed)
-Chromatic (Gun),legendaries,0.6,2,2,0,Stable,Easter 2023 (Egg Bingo)
-Cursed (Knife),legendaries,0.6,2,2,0,Stable,Halloween 2024 (Tier 19)
-Emerald,legendaries,0.6,2,2,0,Stable,Crafting
-Energized (Knife),legendaries,0.6,2,2,0,Stable,Halloween 2025 (Unboxed)
-Frozen (Gun),legendaries,0.6,2,2,0,Stable,Christmas 2025 (Tier 29)
-Nightstar,legendaries,0.6,2,2,0,Stable,Christmas 2024 (Unboxed)
-Overseer (Gun),legendaries,0.6,2,2,0,Stable,Crafting
-Predator (Knife),legendaries,0.6,2,2,0,Stable,Crafting
-Ripper (Knife),legendaries,0.6,2,2,0,Stable,Halloween 2020 (Tier 29)
-Rupture,legendaries,0.6,1,3,0,Stable,Halloween 2015 (Bingo Challenge)
-Tree (Gun),legendaries,0.6,1,3,0,Stable,Christmas 2015 (Unboxed)
-Tree (Knife),legendaries,0.6,1,3,0,Stable,Christmas 2015 (Unboxed)
-Web,legendaries,0.6,1,3,0,Stable,Halloween 2015 (Bingo)
-Green Fire,legendaries,0.6,1,2,0,Stable,Christmas 2017 (Unboxed)
-Aquarium (Gun),legendaries,0.45,2,2,0,Stable,Summer 2025 (Tier 23)
-Cursed (Gun),legendaries,0.45,2,2,0,Stable,Halloween 2024 (Unboxed)
-Frostfade (Gun),legendaries,0.45,2,2,0,Stable,Christmas 2023 (Unboxed)
-Frozen (Knife),legendaries,0.45,2,2,0,Stable,Christmas 2025 (Unboxed)
-Midnight,legendaries,0.45,2,2,0,Stable,Crafting
-Palms (Gun),legendaries,0.45,2,2,0,Stable,Summer 2024 (Tier 10)
-Sparkle,legendaries,0.45,2,2,0,Stable,Crafting
-Cupid,legendaries,0.3,2,2,0,Stable,Valentine's 2026 (Unboxed)
-Ginger (Knife),legendaries,0.3,2,2,0,Stable,Christmas 2018 (Unboxed)
-Ripper (Gun),legendaries,0.3,2,2,0,Stable,Halloween 2020 (Unboxed)
-Aquarium (Knife),legendaries,0.3,1,1,0,Stable,Summer 2025 (Unboxed)
-Palms (Knife),legendaries,0.3,1,1,0,Stable,Summer 2024 (Unboxed)
-Overseer (Knife),legendaries,0.12,2,1,0,Stable,Knife Box #2
-Predator (Gun),legendaries,0.12,2,1,0,Stable,Gun Box #2
-Rune,legendaries,0.12,2,1,0,Stable,Mystery Box #1
-Universe,legendaries,0.12,2,1,0,Stable,Gun Box #3
-Viper,legendaries,0.12,2,1,0,Stable,Gun Box #1
-Fade,legendaries,0.12,1,1,0,Stable,Knife Box #4
-Fusion,legendaries,0.12,1,1,0,Stable,Knife Box #5
-Plasmite,legendaries,0.12,1,1,0,Stable,Knife Box #1
-Shiny,legendaries,0.12,1,1,0,Stable,Rainbow Box
-Splash (Knife),legendaries,0.12,1,1,0,Stable,Knife Box #3
-Elite,legendaries,0.09,1,1,0,Stable,Buying Elite Gamepass
-Splash (Gun),legendaries,0.09,1,1,0,Stable,Mystery Box #2
+Gingerscope,ancients,17750,6,4,0,Stable,Christmas 2023 (Tier 20)
+Traveler's Axe,ancients,8100,5,5,0,Stable,Halloween 2023 (Tier 30)
+Celestial,ancients,2025,5,4,0,Stable,Christmas 2024 (Tier 20)
+Vampire's Axe,ancients,1225,5,4,0,Stable,Halloween 2024 (Tier 20)
+Harvester,ancients,250,3,2,0,Stable,Halloween 2021 (Tier 30)
+Icepiercer,ancients,160,3,2,0,Stable,Christmas 2022 (Tier 20)
+Icebreaker,ancients,65,1,2,0,Stable,Christmas 2020 (Tier 20)
+Batwing,ancients,42,1,2,0,Stable,Halloween 2018 (Item Pack)
+Elderwood Scythe,ancients,38,1,2,0,Stable,Halloween 2019 (Tier 40)
+Swirly Axe,ancients,38,1,2,0,Stable,Christmas 2021 (Tier 20)
+Hallowscythe,ancients,30,1,2,0,Stable,Halloween 2020 (Tier 30)
+Logchopper,ancients,18,1,2,0,Stable,Christmas 2019 (Tier 30)
+Icewing,ancients,13,2,2,0,Stable,Christmas 2018 (Item Pack)
 Chroma Ever Set,sets,127000,8,8,0,Underpaid For,
 Chroma Alien Set,sets,36750,6,6,0,Underpaid For,
 Chroma Bauble Set,sets,35800,7,6,0,Stable,
@@ -538,67 +825,6 @@ Small Set (107),sets,1295,4,4,0,Fluctuating,
 Small Set (103),sets,1265,4,4,0,Fluctuating,
 Full Chroma Set,sets,555,1,2,0,Underpaid For,
 Chroma Weapon Set,sets,535,1,2,0,Stable,
-C. Traveler's Gun,chromas,220000,9,10,0,Stable,Halloween 2023 (Unboxed)
-Chroma Evergun,chromas,75000,8,8,0,Stable,Christmas 2023 (Gifting)
-Chroma Evergreen,chromas,52000,7,7,0,Underpaid For,Christmas 2023 (Unboxed)
-Chroma Bauble,chromas,34000,7,6,0,Stable,Christmas 2024 (Gifting)
-C. Vampire's Gun,chromas,29000,7,6,0,Stable,Halloween 2024 (Unboxed)
-C. Constellation,chromas,27000,7,6,0,Stable,Christmas 2024 (Unboxed)
-Chroma Alienbeam,chromas,24000,6,6,0,Stable,Halloween 2025 (Unboxed)
-Chroma Beachy,chromas,0,0,0,0,Overpaid For,Summer 2026 (Item Pack)
-Chroma Icecream,chromas,0,0,0,0,Overpaid For,Summer 2026 (Unboxed)
-Chroma Sands,chromas,0,0,0,0,Overpaid For,Summer 2026 (Item Pack)
-Chroma Sunrise,chromas,13250,6,5,0,Stable,Summer 2025 (Unboxed)
-Chroma Raygun,chromas,12750,6,5,0,Underpaid For,Halloween 2025 (Tier 25)
-Chroma Snowcannon,chromas,8500,6,5,0,Stable,Christmas 2025 (Tier 30)
-Chroma Sunset,chromas,8250,6,5,0,Stable,Summer 2025 (Tier 25)
-Chroma Blizzard,chromas,8000,5,5,0,Stable,Christmas 2025 (Item Pack)
-Chroma Snow Dagger,chromas,4250,5,5,0,Stable,Christmas 2025 (Unboxed)
-Chroma Snowstorm,chromas,4250,5,5,0,Stable,Christmas 2025 (Item Pack)
-Chroma Heart Wand,chromas,4250,5,4,0,Stable,Valentine's 2026 (Unboxed)
-Chroma Watergun,chromas,3400,5,5,0,Stable,Summer 2024 (Unboxed)
-Chroma Treat,chromas,2500,5,4,0,Fluctuating,Valentine's 2026 (Item Pack)
-Chroma Sweet,chromas,2200,5,4,0,Fluctuating,Valentine's 2026 (Item Pack)
-Chroma Ornament,chromas,1800,5,4,0,Stable,Christmas 2025 (Gifting)
-Chroma Darkbringer,chromas,65,1,2,0,Stable,Mystery Crate #2
-Chroma Lightbringer,chromas,60,1,2,0,Stable,Mystery Crate #2
-Chroma Luger,chromas,50,1,2,0,Stable,Gun Box #1
-Chroma Candleflame,chromas,40,1,2,0,Stable,Halloween 2021 (Unboxed)
-Chroma Laser,chromas,40,1,2,0,Stable,Gun Box #3
-Chroma Swirly Gun,chromas,38,1,2,0,Stable,Christmas 2021 (Unboxed)
-C. Elderwood Blade,chromas,37,1,2,0,Stable,Halloween 2022 (Unboxed)
-Chroma Deathshard,chromas,35,1,2,0,Stable,Knife Box #1
-Chroma Cookiecane,chromas,32,1,2,0,Stable,Christmas 2022 (Unboxed)
-Chroma Fang,chromas,32,1,2,0,Stable,Knife Box #2
-Chroma Gemstone,chromas,32,1,2,0,Stable,Mystery Crate #1
-Chroma Shark,chromas,32,1,2,0,Stable,Gun Box #2
-Chroma Slasher,chromas,32,1,2,0,Stable,Knife Box #4
-Chroma Heat,chromas,28,1,2,0,Stable,Rainbow Box
-Chroma Seer,chromas,28,1,2,0,Stable,Season 1 Crafting
-Chroma Gingerblade,chromas,27,1,2,0,Stable,Christmas 2018 (Unboxed)
-Chroma Tides,chromas,27,1,2,0,Stable,Knife Box #5
-Chroma Saw,chromas,23,1,2,0,Stable,Knife Box #3
-Chroma Boneblade,chromas,22,1,2,0,Stable,Halloween 2018 (Unboxed)
-Chroma Fire Bat,chromas,3,1,2,0,Underpaid For,Season 1 Pet Egg
-Chroma Fire Bear,chromas,3,1,2,0,Underpaid For,Season 1 Pet Egg
-Chroma Fire Bunny,chromas,3,1,2,0,Underpaid For,Season 1 Pet Egg
-Chroma Fire Cat,chromas,3,1,2,0,Underpaid For,Season 1 Pet Egg
-Chroma Fire Dog,chromas,3,1,2,0,Underpaid For,Season 1 Pet Egg
-Chroma Fire Fox,chromas,3,1,2,0,Underpaid For,Season 1 Pet Egg
-Chroma Fire Pig,chromas,3,1,2,0,Underpaid For,Season 1 Pet Egg
-Gingerscope,ancients,17750,6,4,0,Stable,Christmas 2023 (Tier 20)
-Traveler's Axe,ancients,8100,5,5,0,Stable,Halloween 2023 (Tier 30)
-Celestial,ancients,2025,5,4,0,Stable,Christmas 2024 (Tier 20)
-Vampire's Axe,ancients,1225,5,4,0,Stable,Halloween 2024 (Tier 20)
-Harvester,ancients,250,3,2,0,Stable,Halloween 2021 (Tier 30)
-Icepiercer,ancients,160,3,2,0,Stable,Christmas 2022 (Tier 20)
-Icebreaker,ancients,65,1,2,0,Stable,Christmas 2020 (Tier 20)
-Batwing,ancients,42,1,2,0,Stable,Halloween 2018 (Item Pack)
-Elderwood Scythe,ancients,38,1,2,0,Stable,Halloween 2019 (Tier 40)
-Swirly Axe,ancients,38,1,2,0,Stable,Christmas 2021 (Tier 20)
-Hallowscythe,ancients,30,1,2,0,Stable,Halloween 2020 (Tier 30)
-Logchopper,ancients,18,1,2,0,Stable,Christmas 2019 (Tier 30)
-Icewing,ancients,13,2,2,0,Stable,Christmas 2018 (Item Pack)
 Mystery Key,misc,1,2,2,0,Stable,In-Game Shop
 Blue Papers,misc,2,1,3,0,Stable,Christmas 2017 (100 Gems)
 Box of Fertilizer,misc,2,1,3,0,Stable,Christmas 2018 (50 Gems)
@@ -612,16 +838,6 @@ Snowflake Key,misc,0.3,1,3,0,Stable,Christmas 2018 (Tiers or 100 Tokens)
 Skeleton Key,misc,5,1,3,0,Stable,Halloween 2018 (Tiers or 100 Candies)
 Candies (2016),misc,0.002,1,2,0,Stable,Halloween 2016 (Collected in Rounds)
 Candies (2017),misc,0.001,1,1,0,Stable,Halloween 2017 (Collected in Rounds)
-Blood,vintages,8,1,2,0,Stable,"MM1 (4,000 Coins)"
-Ghost,vintages,8,1,2,0,Stable,"MM1 (1,200 Coins)"
-Laser,vintages,8,1,2,0,Stable,"MM1 (1,200 Coins)"
-America,vintages,7,1,2,0,Stable,MM1 July 4th (25 Cash)
-Prince,vintages,6,1,2,0,Stable,"MM1 (2,000 Coins)"
-Shadow,vintages,6,1,2,0,Stable,"MM1 (3,000 Coins)"
-Phaser,vintages,5,1,2,0,Stable,"MM1 (2,000 Coins)"
-Cowboy,vintages,4,1,2,0,Stable,MM1 (800 Coins)
-Golden,vintages,4,1,2,0,Stable,"MM1 (3,500 Coins)"
-Splitter,vintages,3,1,2,0,Stable,MM1 (800 Coins)
 Traveler's Gun,godlies,5400,6,5,0,Doing Well,Halloween 2023 (Unboxed)
 Evergun,godlies,3450,5,4,0,Stable,Christmas 2023 (Gifting 100 Gifts)
 Constellation,godlies,2700,5,4,0,Stable,Christmas 2024 (Unboxed)
@@ -750,305 +966,89 @@ Red Seer,godlies,3,1,1,0,Stable,Season 1 (Crafting)
 Seer,godlies,3,1,1,0,Stable,Crafting
 Orange Seer,godlies,2,1,1,0,Stable,Season 1 (Crafting)
 Yellow Seer,godlies,2,1,1,0,Stable,Season 1 (Crafting)
-Corrupt,uniques,470,4,3,0,Stable,Data Loss from MM1 - MM2 Update
-Cane (Knife),rares,650,4,5,0,Improving,Christmas 2018 (Tier 30)
-Dungeon,rares,300,3,5,0,Receding,Halloween 2019 (Unboxed)
-Darkknife,rares,75,3,4,0,Stable,Halloween 2023 (Tier 25)
-Silent Night (Knife),rares,50,2,4,0,Stable,Christmas 2020 (Tier 15)
-Makeshift (Knife),rares,45,3,4,0,Stable,"Halloween 2022 (Survivor, Tier 17)"
-Zombified,rares,40,3,4,0,Stable,"Halloween 2022 (Zombie, Tier 17)"
-Starry (Gun),rares,27,2,4,0,Stable,Christmas 2021 (Tier 17)
-Swirl,rares,27,2,4,0,Stable,Christmas 2021 (Tier 15)
-Watcher (Gun),rares,25,2,4,0,Stable,Halloween 2021 (Tier 24)
-Magma (Gun),rares,17,2,4,0,Stable,Halloween 2021 (Tier 20)
-Silent Night (Gun),rares,12,2,3,0,Stable,Christmas 2020 (Unboxed)
-Floral (Knife),rares,10,2,3,0,Stable,Summer 2023 (Tier 10)
-Snowflakes,rares,10,2,3,0,Stable,Christmas 2020 (Unboxed)
-Aurora (Knife),rares,8,2,3,0,Stable,Christmas 2019 (Tier 20)
-Ghostfire,rares,8,2,3,0,Stable,Halloween 2022 (Tier 18)
-Toxic (Knife),rares,7,2,3,0,Stable,Halloween 2018 (Tier 30)
-Ghastly (Gun),rares,5,2,4,0,Stable,Halloween 2023 (Tier 21)
-Icicles (Gun),rares,5,2,3,0,Stable,Christmas 2018 (Tier 22)
-Candy Swirl (Gun),rares,3,2,3,0,Stable,Christmas 2019 (Tier 24)
-Jack,rares,3,2,3,0,Stable,Halloween 2015 (Bingo)
-Snakebite (Knife),rares,3,2,3,0,Stable,Halloween 2019 (Tier 23)
-Sun,rares,3,2,3,0,Stable,Summer 2023 (Tier 9)
-Vampire (Gun),rares,3,2,3,0,Stable,Halloween 2018 (Tier 22)
-Wraith (Knife),rares,3,2,3,0,Stable,Halloween 2022 (Tier 13)
-Magma,rares,3,1,3,0,Stable,Halloween 2017 (Unboxed)
-Bats,rares,2,1,3,0,Stable,Halloween 2016 (Unboxed)
-Green Marble,rares,2,1,3,0,Stable,Halloween 2017 (Unboxed)
-Orange Marble,rares,2,1,3,0,Stable,Halloween 2016 (Unboxed)
-Toxic (Gun),rares,2,1,2,0,Stable,Halloween 2018 (Unboxed)
-Darkgun,rares,1,2,3,0,Stable,Halloween 2023 (Unboxed)
-Gingerbread,rares,1,1,3,0,Stable,Christmas 2017 (Unboxed)
-Monster,rares,1,1,3,0,Stable,Halloween 2019 (Tier 15)
-Aurora (Gun),rares,1,1,2,0,Stable,Christmas 2019 (Unboxed)
-Candy Swirl (Knife),rares,1,1,2,0,Stable,Christmas 2019 (Unboxed)
-Snakebite (Gun),rares,1,1,2,0,Stable,Halloween 2019 (Unboxed)
-Vampire (Knife),rares,1,1,2,0,Stable,Halloween 2018 (Unboxed)
-Pier,rares,0,0,0,0,,Summer 2026 (Unboxed)
-Sunset,rares,0,0,0,0,,Summer 2026 (Unboxed)
-Gingerbread (Gun),rares,0.6,2,3,0,Stable,Christmas 2022 (Tier 15)
-Starry (Knife),rares,0.6,2,3,0,Stable,Christmas 2021 (Unboxed)
-Cane (Gun),rares,0.6,1,3,0,Stable,Christmas 2015 (Unboxed)
-Cane (Knife),rares,0.6,1,3,0,Stable,Christmas 2015 (Unboxed)
-Ginger (Gun),rares,0.6,1,3,0,Stable,Christmas 2015 (Unboxed)
-Ginger (Knife),rares,0.6,1,3,0,Stable,Christmas 2015 (Unboxed)
-Mummy,rares,0.6,1,3,0,Stable,Halloween 2015 (Bingo Challenge)
-Nuke,rares,0.45,2,3,0,Stable,Easter 2023 (Egg Bingo)
-Cane (Gun),rares,0.45,2,2,0,Stable,Christmas 2018 (Unboxed)
-Magma (Knife),rares,0.45,2,2,0,Stable,Halloween 2021 (Unboxed)
-Watcher (Knife),rares,0.45,2,2,0,Stable,Halloween 2021 (Unboxed)
-Snowy,rares,0.45,1,4,0,Stable,Christmas 2017 (Unboxed)
-Icicles (Knife),rares,0.45,1,2,0,Stable,Christmas 2018 (Unboxed)
-Ghastly (Knife),rares,0.3,2,3,0,Stable,Halloween 2023 (Unboxed)
-Ice Camo,rares,0.3,2,2,0,Stable,Christmas 2021 (Unboxed)
-Logcutter,rares,0.3,2,2,0,Stable,Christmas 2024 (Tier 15)
-Molten (Gun),rares,0.3,2,2,0,Stable,Crafting
-Molten (Knife),rares,0.3,2,2,0,Stable,Crafting
-Butterflies,rares,0.15,2,3,0,Stable,Easter 2025 (8 Rare Eggs)
-Heart,rares,0.15,2,3,0,Stable,Valentine's 2023 (Tier 4)
-Neon,rares,0.15,2,3,0,Stable,Christmas 2023 (Tier 17)
-Candleflame (Gun),rares,0.15,2,2,0,Stable,Halloween 2024 (Tier 17)
-Damp,rares,0.15,2,2,0,Stable,Crafting
-Frostflame (Knife),rares,0.15,2,2,0,Stable,Christmas 2024 (Tier 17)
-Gingerbread (Knife),rares,0.15,2,2,0,Stable,Christmas 2022 (Unboxed)
-Nether,rares,0.15,2,2,0,Stable,Crafting
-Painted (Knife),rares,0.15,2,2,0,Stable,Easter 2023 (Tier 4)
-Spitfire,rares,0.15,2,2,0,Stable,Crafting
-Storm,rares,0.15,2,2,0,Stable,Halloween 2024 (Tier 15)
-Wraith (Gun),rares,0.15,2,2,0,Stable,Halloween 2022 (Unboxed)
-Tree (2023),rares,0.09,2,3,0,Stable,Christmas 2023 (Tier 15)
-Tree (Knife),rares,0.09,2,3,0,Stable,Christmas 2022 (Tier 17)
-Bio,rares,0.09,2,2,0,Stable,Easter 2023 (Egg Bingo)
-Bones (Knife),rares,0.09,2,2,0,Stable,Halloween 2020 (Unboxed)
-Curse,rares,0.09,2,2,0,Stable,Halloween 2022 (Unboxed)
-Frostflame (Gun),rares,0.09,2,2,0,Stable,Christmas 2024 (Unboxed)
-Ghosts (Gun),rares,0.09,2,2,0,Stable,Halloween 2020 (Tier 24)
-Gingercookie (Knife),rares,0.09,2,2,0,Stable,Christmas 2025 (Tier 26)
-Hologram (Gun),rares,0.09,2,2,0,Stable,Halloween 2025 (Tier 19)
-Pop Art (Knife),rares,0.09,2,2,0,Stable,Summer 2025 (Tier 19)
-Spearmint (Gun),rares,0.09,2,2,0,Stable,Christmas 2025 (Tier 20)
-Xeno (Knife),rares,0.09,2,2,0,Stable,Halloween 2025 (Tier 21)
-Sunny,rares,0.09,1,1,0,Stable,Easter 2025 (Tier 4)
-Tropical,rares,0.09,1,1,0,Stable,Summer 2025 (Tier 21)
-Hologram (Knife),rares,0.06,2,2,0,Stable,Halloween 2025 (Unboxed)
-Portal (Knife),rares,0.06,2,2,0,Stable,Halloween 2020 (Unboxed)
-Tree (Gun),rares,0.06,2,2,0,Stable,Christmas 2022 (Unboxed)
-Xeno (Gun),rares,0.06,2,2,0,Stable,Halloween 2025 (Unboxed)
-Kraken,rares,0.06,1,2,0,Stable,Halloween 2024 (Unboxed)
-Ritual,rares,0.06,1,2,0,Stable,Halloween 2024 (Unboxed)
-Snowflake,rares,0.06,1,2,0,Stable,Christmas 2023 (Unboxed)
-Snowglobe,rares,0.06,1,2,0,Stable,Christmas 2023 (Unboxed)
-Floral (Gun),rares,0.06,1,1,0,Stable,Summer 2024 (Unboxed)
-Gingercookie (Gun),rares,0.06,1,1,0,Stable,Christmas 2025 (Unboxed)
-Heartbreak,rares,0.06,1,1,0,Stable,Valentine's 2026 (Unboxed)
-Neon,rares,0.06,1,1,0,Stable,Summer 2025 (Unboxed)
-Pop Art (Gun),rares,0.06,1,1,0,Stable,Summer 2025 (Unboxed)
-Robot,rares,0.06,1,1,0,Stable,Easter 2024 (8 Rare Eggs)
-Sharky,rares,0.06,1,1,0,Stable,Summer 2024 (Tier 7)
-Sleigh,rares,0.06,1,1,0,Stable,Christmas 2024 (Unboxed)
-Spearmint (Knife),rares,0.06,1,1,0,Stable,Christmas 2025 (Unboxed)
-Spring,rares,0.06,1,1,0,Stable,Easter 2024 (Tier 5)
-Waves,rares,0.06,1,1,0,Stable,Summer 2024 (Unboxed)
-Yummy,rares,0.06,1,1,0,Stable,Valentine's 2026 (Unboxed)
-Black,rares,0.025,2,1,0,Stable,Rainbow Box
-Abstract,rares,0.025,1,1,0,Stable,Knife Box #5
-Ace,rares,0.025,1,1,0,Stable,Gun Box #3
-Bacon,rares,0.025,1,1,0,Stable,Gun Box #3
-Galactic,rares,0.025,1,1,0,Stable,Gun Box #1
-Galaxy,rares,0.025,1,1,0,Stable,Knife Box #1
-Hacker,rares,0.025,1,1,0,Stable,Gun Box #2
-Imbued,rares,0.025,1,1,0,Stable,Gun Box #1
-iRevolver,rares,0.025,1,1,0,Stable,Gun Box #2
-Korblox,rares,0.025,1,1,0,Stable,Knife Box #4
-Krypto,rares,0.025,1,1,0,Stable,Knife Box #2
-Musical,rares,0.025,1,1,0,Stable,Knife Box #5
-Nightfire,rares,0.025,1,1,0,Stable,Mystery Box #2
-Nova,rares,0.025,1,1,0,Stable,Knife Box #3
-Purple,rares,0.025,1,1,0,Stable,Rainbow Box
-Rainbow (Gun),rares,0.025,1,1,0,Stable,Mystery Box #1
-Rainbow (Knife),rares,0.025,1,1,0,Stable,Knife Box #1
-Space,rares,0.025,1,1,0,Stable,Mystery Box #1
-Spectrum,rares,0.025,1,1,0,Stable,Knife Box #2
-Squire,rares,0.025,1,1,0,Stable,Knife Box #4
-Vortex,rares,0.025,1,1,0,Stable,Knife Box #3
-Deep Sea,rares,0.02,1,1,0,Stable,Mystery Box #2
-Bones,uncommons,240,3,5,0,Stable,Halloween 2019 (Unboxed)
-Brains,uncommons,155,3,4,0,Stable,Halloween 2019 (Unboxed)
-Zombified (Knife),uncommons,115,3,4,0,Stable,Halloween 2019 (Unboxed)
-Gingerbread (Knife),uncommons,75,3,4,0,Stable,Christmas 2019 (Tier 9)
-Sweater (Knife),uncommons,60,3,4,0,Stable,Christmas 2018 (Tier 14)
-Branches,uncommons,50,3,4,0,Stable,Halloween 2019 (Tier 10)
-Snowflake (Knife),uncommons,50,3,4,0,Stable,Christmas 2018 (Tier 8)
-Skulls,uncommons,15,3,4,0,Stable,Halloween 2021 (Tier 14)
-Zombified (Gun),uncommons,15,2,4,0,Stable,Halloween 2019 (Tier 6)
-Void,uncommons,12,2,3,0,Stable,Prime Gaming Promo
-Steel (Gun),uncommons,8,2,3,0,Stable,Halloween 2023 (Tier 15)
-Gothic (Gun),uncommons,7,2,4,0,Stable,Halloween 2021 (Tier 8)
-Zombie,uncommons,7,2,4,0,Stable,Halloween 2021 (Tier 18)
-Mummy (2017),uncommons,7,2,3,0,Stable,Halloween 2017 (Unboxed)
-Wrap (Gun),uncommons,5,2,3,0,Stable,Christmas 2020 (Unboxed)
-Wrap (Knife),uncommons,5,2,3,0,Stable,Christmas 2020 (Unboxed)
-Zombie (Gun),uncommons,5,1,3,0,Stable,Halloween 2018 (Tier 11)
-Floral,uncommons,0,0,0,0,,Summer 2026 (Unboxed)
-Neopolitan,uncommons,0,0,0,0,,Summer 2026 (Unboxed)
-Turtles,uncommons,0,0,0,0,,Summer 2026 (Unboxed)
-Snowman (Gun),uncommons,3,2,4,0,Stable,Christmas 2021 (Tier 13)
-Hazard (Gun),uncommons,3,2,3,0,Stable,Halloween 2022 (Tier 11)
-Webs,uncommons,3,2,3,0,Stable,Halloween 2017 (Unboxed)
-Zombie (2023),uncommons,3,2,3,0,Stable,Halloween 2023 (Tier 13)
-Frozen (Gun),uncommons,3,1,3,0,Stable,Christmas 2019 (Tier 16)
-Potion (2017),uncommons,3,1,3,0,Stable,Halloween 2017 (Unboxed)
-Gingerbread (Knife),uncommons,2,2,4,0,Stable,Christmas 2020 (Tier 6)
-Tree (2021),uncommons,2,2,4,0,Stable,Christmas 2021 (Tier 11)
-Lantern,uncommons,2,2,3,0,Stable,Halloween 2022 (Tier 14)
-Meltdown,uncommons,2,2,3,0,Stable,Halloween 2023 (Tier 19)
-Stars (Knife),uncommons,2,2,3,0,Stable,Christmas 2023 (Tier 10)
-Pumpkin Pie,uncommons,2,2,2,0,Stable,Thanksgiving 2023 (Tier 3)
-Lights (Gun),uncommons,2,1,3,0,Stable,Christmas 2019 (Tier 14)
-Mummy (Gun),uncommons,2,1,3,0,Stable,Halloween 2018 (Tier 8)
-Potion (Gun),uncommons,2,1,3,0,Stable,Halloween 2018 (Unboxed)
-Potion (Knife),uncommons,2,1,3,0,Stable,Halloween 2018 (Tier 14)
-Gingerbread (Gun),uncommons,1,2,3,0,Stable,Christmas 2019 (Unboxed)
-Gingerbread (Gun),uncommons,1,2,3,0,Stable,Christmas 2020 (Unboxed)
-Moonlight,uncommons,1,2,3,0,Stable,Halloween 2022 (Tier 15)
-Frozen (Knife),uncommons,1,1,3,0,Stable,Christmas 2019 (Unboxed)
-Holly (Gun),uncommons,1,1,3,0,Stable,Christmas 2018 (Tier 11)
-Lights (Knife),uncommons,1,1,3,0,Stable,Christmas 2019 (Unboxed)
-Mummy (Knife),uncommons,1,1,3,0,Stable,Halloween 2018 (Unboxed)
-Zombie (Knife),uncommons,1,1,3,0,Stable,Halloween 2018 (Unboxed)
-Moons,uncommons,1,1,2,0,Stable,Halloween 2016 (Unboxed)
-Vampire,uncommons,1,1,2,0,Stable,Halloween 2016 (Unboxed)
-Wolf,uncommons,1,1,2,0,Stable,Halloween 2016 (Unboxed)
-Gothic (Knife),uncommons,0.6,2,3,0,Stable,Halloween 2021 (Unboxed)
-Nutcracker,uncommons,0.6,1,3,0,Stable,Christmas 2015 (Unboxed)
-Snowman (Gun),uncommons,0.6,1,3,0,Stable,Christmas 2015 (Unboxed)
-Snowman (Knife),uncommons,0.6,1,3,0,Stable,Christmas 2015 (Unboxed)
-Snowy,uncommons,0.6,1,3,0,Stable,Christmas 2015 (Unboxed)
-Wrapped (Gun),uncommons,0.6,1,3,0,Stable,Christmas 2015 (Unboxed)
-Wrapped (Knife),uncommons,0.6,1,3,0,Stable,Christmas 2015 (Unboxed)
-Gifted,uncommons,0.6,1,2,0,Stable,Item Code (F1RSTC0D3)
-Cookie (Knife),uncommons,0.45,2,4,0,Stable,Christmas 2021 (Tier 9)
-Steel (Knife),uncommons,0.3,2,2,0,Stable,Halloween 2023 (Unboxed)
-Pool Noodle,uncommons,0.15,2,3,0,Stable,Summer 2023 (Tier 8)
-Snowflake (Knife),uncommons,0.15,2,3,0,Stable,Christmas 2022 (Tier 13)
-Wraiths (Knife),uncommons,0.15,2,3,0,Stable,Halloween 2021 (Tier 12)
-Mistletoe (Gun),uncommons,0.09,2,3,0,Stable,Christmas 2022 (Tier 11)
-Hazard (Knife),uncommons,0.09,2,2,0,Stable,Halloween 2022 (Unboxed)
-Gingerheart,uncommons,0.06,2,2,0,Stable,Christmas 2024 (Tier 9)
-Love (Gun),uncommons,0.06,2,2,0,Stable,Crafting
-Rose,uncommons,0.06,2,2,0,Stable,Valentine's 2023 (Tier 2)
-Canes (Gun),uncommons,0.03,2,2,0,Stable,Christmas 2023 (Tier 11)
-Cookie (Gun),uncommons,0.03,2,2,0,Stable,Christmas 2021 (Unboxed)
-Fireplace,uncommons,0.03,2,2,0,Stable,Christmas 2023 (Tier 13)
-Forest,uncommons,0.03,2,2,0,Stable,Christmas 2024 (Tier 8)
-Marble,uncommons,0.03,2,2,0,Stable,Easter 2023 (Egg Bingo)
-Melon,uncommons,0.03,2,2,0,Stable,Summer 2023 (Tier 7)
-Mummy (Knife),uncommons,0.03,2,2,0,Stable,Halloween 2020 (Tier 6)
-Snowflake (Gun),uncommons,0.03,2,2,0,Stable,Christmas 2018 (Unboxed)
-Snowman (Knife),uncommons,0.03,2,2,0,Stable,Christmas 2021 (Unboxed)
-Wrapped (Gun),uncommons,0.03,2,2,0,Stable,Christmas 2024 (Tier 12)
-Frosty,uncommons,0.03,1,3,0,Stable,Christmas 2017 (Unboxed)
-Holly (Knife),uncommons,0.03,1,2,0,Stable,Christmas 2018 (Unboxed)
-Stockings (Knife),uncommons,0.02,2,3,0,Stable,Christmas 2022 (Tier 10)
-Brains (2022),uncommons,0.02,2,2,0,Stable,Halloween 2022 (Unboxed)
-Carrot,uncommons,0.02,2,2,0,Stable,Easter 2023 (Tier 2)
-Carrot (Gun),uncommons,0.02,2,2,0,Stable,Easter 2024 (Tier 3)
-Carrot (Knife),uncommons,0.02,2,2,0,Stable,Easter 2024 (6 Rare Eggs)
-Clown (Gun),uncommons,0.02,2,2,0,Stable,Halloween 2024 (Tier 13)
-Fall Camo,uncommons,0.02,2,2,0,Stable,Halloween 2021 (Unboxed)
-Floatie,uncommons,0.02,2,2,0,Stable,Summer 2024 (Tier 4)
-Gingerbread (Gun),uncommons,0.02,2,2,0,Stable,Christmas 2021 (Unboxed)
-Monster,uncommons,0.02,2,2,0,Stable,Halloween 2024 (Tier 10)
-Moons (2024),uncommons,0.02,2,2,0,Stable,Halloween 2024 (Tier 11)
-Mummy (Gun),uncommons,0.02,2,2,0,Stable,Halloween 2020 (Unboxed)
-Painted (Gun),uncommons,0.02,2,2,0,Stable,Easter 2023 (Egg Bingo)
-Snowflake (Gun),uncommons,0.02,2,2,0,Stable,Christmas 2022 (Unboxed)
-Sweater (Gun),uncommons,0.02,2,2,0,Stable,Christmas 2018 (Unboxed)
-Witchbrew,uncommons,0.02,2,2,0,Stable,Halloween 2022 (Unboxed)
-Wraiths (Gun),uncommons,0.02,2,2,0,Stable,Halloween 2021 (Unboxed)
-Stars (Gun),uncommons,0.02,2,1,0,Stable,Christmas 2023 (Unboxed)
-Sweater,uncommons,0.02,1,3,0,Stable,Christmas 2017 (Unboxed)
-Tree (2017),uncommons,0.02,1,3,0,Stable,Christmas 2017 (Unboxed)
-Checkers,uncommons,0.02,1,2,0,Stable,Crafting
-Decorated,uncommons,0.02,1,2,0,Stable,Easter 2025 (Tier 3)
-Eclipse,uncommons,0.02,1,2,0,Stable,Halloween 2023 (Unboxed)
-Eyes,uncommons,0.02,1,2,0,Stable,Halloween 2025 (Tier 13)
-Future,uncommons,0.02,1,2,0,Stable,Crafting
-Gingerbread (Gun),uncommons,0.02,1,2,0,Stable,Christmas 2025 (Tier 16)
-Glowy,uncommons,0.02,1,2,0,Stable,Halloween 2023 (Unboxed)
-Lava (Knife),uncommons,0.02,1,2,0,Stable,Summer 2025 (Tier 13)
-Meadow,uncommons,0.02,1,2,0,Stable,Easter 2025 (6 Rare Eggs)
-Mistletoe (Knife),uncommons,0.02,1,2,0,Stable,Christmas 2022 (Unboxed)
-Night,uncommons,0.02,1,2,0,Stable,Crafting
-Polar Bear,uncommons,0.02,1,2,0,Stable,Christmas 2025 (Tier 18)
-Pool,uncommons,0.02,1,2,0,Stable,Summer 2025 (Tier 8)
-Popsicle,uncommons,0.02,1,2,0,Stable,Summer 2023 (Tier 6)
-Pumpkin (2025),uncommons,0.02,1,2,0,Stable,Halloween 2025 (Tier 9)
-Soda (Gun),uncommons,0.02,1,2,0,Stable,Summer 2025 (Tier 10)
-Stockings (Gun),uncommons,0.02,1,2,0,Stable,Christmas 2022 (Unboxed)
-Sweater (Knife),uncommons,0.02,1,2,0,Stable,Christmas 2025 (Tier 14)
-Treats (Gun),uncommons,0.02,1,2,0,Stable,Halloween 2025 (Tier 11)
-Canes (Knife),uncommons,0.02,1,1,0,Stable,Christmas 2023 (Unboxed)
-Snowman (2023),uncommons,0.02,1,1,0,Stable,Christmas 2023 (Unboxed)
-Ghostly,uncommons,0.015,2,2,0,Stable,Halloween 2022 (Catalog Promo)
-Ghosts (Knife),uncommons,0.015,2,2,0,Stable,Halloween 2020 (Unboxed)
-Portal (Gun),uncommons,0.015,2,2,0,Stable,Halloween 2020 (Tier 9)
-Pumpkin (Knife),uncommons,0.015,2,2,0,Stable,Halloween 2020 (Unboxed)
-Donut,uncommons,0.015,1,2,0,Stable,Crafting
-Abduction,uncommons,0.015,1,1,0,Stable,Halloween 2025 (Unboxed)
-Blossom,uncommons,0.015,1,1,0,Stable,Valentine's 2026 (Unboxed)
-Bones (Knife),uncommons,0.015,1,1,0,Stable,Halloween 2024 (Unboxed)
-Gingerbread (Knife),uncommons,0.015,1,1,0,Stable,Christmas 2025 (Unboxed)
-Jellyfish,uncommons,0.015,1,1,0,Stable,Summer 2024 (Unboxed)
-Lava (Gun),uncommons,0.015,1,1,0,Stable,Summer 2025 (Unboxed)
-Leaves,uncommons,0.015,1,1,0,Stable,Halloween 2024 (Unboxed)
-Ornaments,uncommons,0.015,1,1,0,Stable,Christmas 2025 (Unboxed)
-Paws,uncommons,0.015,1,1,0,Stable,Valentine's 2026 (Unboxed)
-Popsicle (Gun),uncommons,0.015,1,1,0,Stable,Summer 2024 (Unboxed)
-Pumpkin Patch,uncommons,0.015,1,1,0,Stable,Halloween 2025 (Unboxed)
-Retro,uncommons,0.015,1,1,0,Stable,Summer 2025 (Unboxed)
-Snowman (2024),uncommons,0.015,1,1,0,Stable,Christmas 2024 (Unboxed)
-Soda (Knife),uncommons,0.015,1,1,0,Stable,Summer 2025 (Unboxed)
-Starry,uncommons,0.015,1,1,0,Stable,Valentine's 2026 (Unboxed)
-Sweater (Gun),uncommons,0.015,1,1,0,Stable,Christmas 2025 (Unboxed)
-Treats (Knife),uncommons,0.015,1,1,0,Stable,Halloween 2025 (Unboxed)
-Turtle,uncommons,0.015,1,1,0,Stable,Summer 2024 (Unboxed)
-Witch's Brew,uncommons,0.015,1,1,0,Stable,Halloween 2024 (Unboxed)
-Wrapped (Knife),uncommons,0.015,1,1,0,Stable,Christmas 2024 (Unboxed)
-Wreaths,uncommons,0.015,1,1,0,Stable,Christmas 2024 (Unboxed)
-Doge,uncommons,0.004,2,1,0,Stable,Knife Box #3
-Sketch,uncommons,0.004,2,1,0,Stable,Gun Box #2
-Adurite (Gun),uncommons,0.004,1,1,0,Stable,Gun Box #1
-Adurite (Knife),uncommons,0.004,1,1,0,Stable,Knife Box #1
-Biogun,uncommons,0.004,1,1,0,Stable,Mystery Box #2
-Blue,uncommons,0.004,1,1,0,Stable,Rainbow Box
-Bluesteel (Gun),uncommons,0.004,1,1,0,Stable,Gun Box #1
-Bluesteel (Knife),uncommons,0.004,1,1,0,Stable,Knife Box #1
-Brush,uncommons,0.004,1,1,0,Stable,Knife Box #5
-Camo (Gun),uncommons,0.004,1,1,0,Stable,Gun Box #1
-Camo (Knife),uncommons,0.004,1,1,0,Stable,Mystery Box #1
-Caution,uncommons,0.004,1,1,0,Stable,Gun Box #3
-Cheddar,uncommons,0.004,1,1,0,Stable,Gun Box #2
-Cheesy,uncommons,0.004,1,1,0,Stable,Knife Box #2
-Circuit,uncommons,0.004,1,1,0,Stable,Knife Box #3
-Hazmat,uncommons,0.004,1,1,0,Stable,Knife Box #4
-Hive,uncommons,0.004,1,1,0,Stable,Knife Box #4
-Jigsaw,uncommons,0.004,1,1,0,Stable,Knife Box #5
-Lucky,uncommons,0.004,1,1,0,Stable,Knife Box #5
-Marina,uncommons,0.004,1,1,0,Stable,Gun Box #2
-Melon,uncommons,0.004,1,1,0,Stable,Knife Box #4
-Missing,uncommons,0.004,1,1,0,Stable,Knife Box #2
-Paper,uncommons,0.004,1,1,0,Stable,Knife Box #3
-Pink,uncommons,0.004,1,1,0,Stable,Rainbow Box
-Pirate,uncommons,0.004,1,1,0,Stable,Mystery Box #1
-Red,uncommons,0.004,1,1,0,Stable,Rainbow Box
-Soda,uncommons,0.004,1,1,0,Stable,Gun Box #3
-Stalker,uncommons,0.004,1,1,0,Stable,Knife Box #2
-Tiger,uncommons,0.004,1,1,0,Stable,Mystery Box #1
-Wanwood,uncommons,0.004,1,1,0,Stable,Knife Box #1
-Wooden,uncommons,0.004,1,1,0,Stable,Gun Box #3
-Graffiti,uncommons,0.003,1,1,0,Stable,Mystery Box #2
-High Tech,uncommons,0.003,1,1,0,Stable,Mystery Box #2
+Blood,vintages,8,1,2,0,Stable,"MM1 (4,000 Coins)"
+Ghost,vintages,8,1,2,0,Stable,"MM1 (1,200 Coins)"
+Laser,vintages,8,1,2,0,Stable,"MM1 (1,200 Coins)"
+America,vintages,7,1,2,0,Stable,MM1 July 4th (25 Cash)
+Prince,vintages,6,1,2,0,Stable,"MM1 (2,000 Coins)"
+Shadow,vintages,6,1,2,0,Stable,"MM1 (3,000 Coins)"
+Phaser,vintages,5,1,2,0,Stable,"MM1 (2,000 Coins)"
+Cowboy,vintages,4,1,2,0,Stable,MM1 (800 Coins)
+Golden,vintages,4,1,2,0,Stable,"MM1 (3,500 Coins)"
+Splitter,vintages,3,1,2,0,Stable,MM1 (800 Coins)
+Latte (Gun),legendaries,155,3,3,0,Stable,Thanksgiving 2023 (Item Pack)
+Latte (Knife),legendaries,155,3,3,0,Stable,Thanksgiving 2023 (Item Pack)
+Spectral (Knife),legendaries,60,3,4,0,Stable,Halloween 2021 (Tier 29)
+Traveler (Gun),legendaries,60,3,4,0,Stable,Halloween 2023 (Tier 29)
+Aurora (Gun),legendaries,55,3,4,0,Stable,Christmas 2021 (Tier 19)
+Vampire (Gun),legendaries,55,3,4,0,Stable,Halloween 2022 (Tier 19)
+Cotton Candy,legendaries,40,2,2,0,Stable,Candy Tycoon Promo
+Beach,legendaries,35,2,3,0,Stable,Summer 2023 (Tier 12)
+JD,legendaries,28,2,2,0,Stable,JD Giveaway
+Arctic (Gun),legendaries,10,2,4,0,Stable,Christmas 2022 (Tier 19)
+Cavern (Knife),legendaries,7,2,3,0,Stable,Christmas 2019 (Tier 29)
+Broken,legendaries,7,2,2,0,Stable,Valentine's 2023 (Tier 5)
+Icedriller,legendaries,5,2,2,0,Stable,Christmas 2020 (Tier 19)
+Nightsky,legendaries,5,2,2,0,Stable,Christmas 2024 (Tier 19)
+Ghost (Knife),legendaries,5,1,3,0,Stable,Halloween 2018 (Tier 50)
+Ginger (Gun),legendaries,5,1,3,0,Stable,Christmas 2018 (Tier 50)
+Bunnies,legendaries,4,2,2,0,Stable,Easter 2025 (Tier 6)
+Red Scratch,legendaries,4,1,3,0,Stable,Halloween 2016 (Unboxed)
+Skulls,legendaries,4,1,3,0,Stable,Halloween 2019 (Unboxed)
+Aurora (Knife),legendaries,3,2,2,0,Stable,Christmas 2021 (Unboxed)
+Spectral (Gun),legendaries,3,2,2,0,Stable,Halloween 2021 (Unboxed)
+Traveler (Knife),legendaries,3,2,2,0,Stable,Halloween 2023 (Unboxed)
+Vampire (Knife),legendaries,3,2,2,0,Stable,Halloween 2022 (Unboxed)
+Witched,legendaries,3,2,2,0,Stable,Halloween 2019 (Tier 35)
+Blue Elite,legendaries,3,1,3,0,Stable,Christmas 2017 (Buying Elite Gamepass)
+Green Elite,legendaries,3,1,3,0,Stable,Christmas 2015 (Buying Elite Gamepass)
+Santa's Magic,legendaries,3,1,3,0,Stable,Christmas 2019 (Santa's Challenge)
+Santa's Spirit,legendaries,3,1,3,0,Stable,Christmas 2020 (Santa's Challenge)
+Energized (Gun),legendaries,2,2,2,0,Stable,Halloween 2025 (Tier 23)
+Frostfade (Knife),legendaries,2,2,2,0,Stable,Christmas 2023 (Tier 19)
+Blue Scratch,legendaries,2,1,3,0,Stable,Halloween 2017 (Unboxed)
+Ghost (Gun),legendaries,2,1,3,0,Stable,Halloween 2018 (Unboxed)
+Chromatic (Knife),legendaries,1,2,2,0,Stable,Easter 2023 (Egg Bingo)
+Icecracker,legendaries,1,2,2,0,Stable,Christmas 2020 (Unboxed)
+Red Fire,legendaries,1,1,3,0,Stable,Christmas 2017 (Completing All Challenges)
+Cavern (Gun),legendaries,1,1,2,0,Stable,Christmas 2019 (Unboxed)
+Bubbles,legendaries,0,0,0,0,Doing Well,Summer 2026 (Unboxed)
+Arctic (Knife),legendaries,0.6,2,2,0,Stable,Christmas 2022 (Unboxed)
+Chromatic (Gun),legendaries,0.6,2,2,0,Stable,Easter 2023 (Egg Bingo)
+Cursed (Knife),legendaries,0.6,2,2,0,Stable,Halloween 2024 (Tier 19)
+Emerald,legendaries,0.6,2,2,0,Stable,Crafting
+Energized (Knife),legendaries,0.6,2,2,0,Stable,Halloween 2025 (Unboxed)
+Frozen (Gun),legendaries,0.6,2,2,0,Stable,Christmas 2025 (Tier 29)
+Nightstar,legendaries,0.6,2,2,0,Stable,Christmas 2024 (Unboxed)
+Overseer (Gun),legendaries,0.6,2,2,0,Stable,Crafting
+Predator (Knife),legendaries,0.6,2,2,0,Stable,Crafting
+Ripper (Knife),legendaries,0.6,2,2,0,Stable,Halloween 2020 (Tier 29)
+Rupture,legendaries,0.6,1,3,0,Stable,Halloween 2015 (Bingo Challenge)
+Tree (Gun),legendaries,0.6,1,3,0,Stable,Christmas 2015 (Unboxed)
+Tree (Knife),legendaries,0.6,1,3,0,Stable,Christmas 2015 (Unboxed)
+Web,legendaries,0.6,1,3,0,Stable,Halloween 2015 (Bingo)
+Green Fire,legendaries,0.6,1,2,0,Stable,Christmas 2017 (Unboxed)
+Aquarium (Gun),legendaries,0.45,2,2,0,Stable,Summer 2025 (Tier 23)
+Cursed (Gun),legendaries,0.45,2,2,0,Stable,Halloween 2024 (Unboxed)
+Frostfade (Gun),legendaries,0.45,2,2,0,Stable,Christmas 2023 (Unboxed)
+Frozen (Knife),legendaries,0.45,2,2,0,Stable,Christmas 2025 (Unboxed)
+Midnight,legendaries,0.45,2,2,0,Stable,Crafting
+Palms (Gun),legendaries,0.45,2,2,0,Stable,Summer 2024 (Tier 10)
+Sparkle,legendaries,0.45,2,2,0,Stable,Crafting
+Cupid,legendaries,0.3,2,2,0,Stable,Valentine's 2026 (Unboxed)
+Ginger (Knife),legendaries,0.3,2,2,0,Stable,Christmas 2018 (Unboxed)
+Ripper (Gun),legendaries,0.3,2,2,0,Stable,Halloween 2020 (Unboxed)
+Aquarium (Knife),legendaries,0.3,1,1,0,Stable,Summer 2025 (Unboxed)
+Palms (Knife),legendaries,0.3,1,1,0,Stable,Summer 2024 (Unboxed)
+Overseer (Knife),legendaries,0.12,2,1,0,Stable,Knife Box #2
+Predator (Gun),legendaries,0.12,2,1,0,Stable,Gun Box #2
+Rune,legendaries,0.12,2,1,0,Stable,Mystery Box #1
+Universe,legendaries,0.12,2,1,0,Stable,Gun Box #3
+Viper,legendaries,0.12,2,1,0,Stable,Gun Box #1
+Fade,legendaries,0.12,1,1,0,Stable,Knife Box #4
+Fusion,legendaries,0.12,1,1,0,Stable,Knife Box #5
+Plasmite,legendaries,0.12,1,1,0,Stable,Knife Box #1
+Shiny,legendaries,0.12,1,1,0,Stable,Rainbow Box
+Splash (Knife),legendaries,0.12,1,1,0,Stable,Knife Box #3
+Elite,legendaries,0.09,1,1,0,Stable,Buying Elite Gamepass
+Splash (Gun),legendaries,0.09,1,1,0,Stable,Mystery Box #2

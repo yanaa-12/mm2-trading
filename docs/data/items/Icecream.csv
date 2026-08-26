@@ -198,3 +198,4 @@ timestamp,value,demand,rarity,last_change,stability
 2026-08-26T09:00:00Z,105,2,3,0,Underpaid For
 2026-08-26T12:00:00Z,105,2,3,0,Underpaid For
 2026-08-26T15:00:00Z,105,2,3,0,Underpaid For
+2026-08-26T18:00:00Z,120,2,3,0,Fluctuating

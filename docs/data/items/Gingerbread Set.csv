@@ -363,3 +363,5 @@ timestamp,value,demand,rarity,last_change,stability
 2026-08-26T06:00:00Z,13,2,4,0,Stable
 2026-08-26T09:00:00Z,86,3,4,0,Stable
 2026-08-26T09:00:00Z,13,2,4,0,Stable
+2026-08-26T12:00:00Z,86,3,4,0,Stable
+2026-08-26T12:00:00Z,13,2,4,0,Stable

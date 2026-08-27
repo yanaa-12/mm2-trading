@@ -555,3 +555,5 @@ timestamp,value,demand,rarity,last_change,stability
 2026-08-26T21:00:00Z,10,2,3,0,Stable
 2026-08-27T06:00:00Z,7,2,4,0,Stable
 2026-08-27T06:00:00Z,10,2,3,0,Stable
+2026-08-27T09:00:00Z,7,2,4,0,Stable
+2026-08-27T09:00:00Z,10,2,3,0,Stable

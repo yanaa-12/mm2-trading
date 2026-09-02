@@ -312,3 +312,4 @@ timestamp,value,demand,rarity,last_change,stability
 2026-09-01T18:00:00Z,5200,5,4,0,Stable
 2026-09-01T21:00:00Z,5300,6,4,0,Overpaid For
 2026-09-02T06:00:00Z,5300,6,4,0,Overpaid For
+2026-09-02T09:00:00Z,5300,6,4,0,Overpaid For

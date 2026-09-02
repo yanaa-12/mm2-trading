@@ -1263,3 +1263,7 @@ timestamp,value,demand,rarity,last_change,stability
 2026-09-02T12:00:00Z,20,2,4,0,Stable
 2026-09-02T12:00:00Z,17,2,4,0,Stable
 2026-09-02T12:00:00Z,3,1,2,0,Underpaid For
+2026-09-02T15:00:00Z,120,3,4,0,Stable
+2026-09-02T15:00:00Z,20,2,4,0,Stable
+2026-09-02T15:00:00Z,17,2,4,0,Stable
+2026-09-02T15:00:00Z,3,1,2,0,Underpaid For

@@ -617,3 +617,5 @@ timestamp,value,demand,rarity,last_change,stability
 2026-09-07T12:00:00Z,750,5,3,0,Receding
 2026-09-07T15:00:00Z,0.09,1,2,0,Stable
 2026-09-07T15:00:00Z,750,5,3,0,Receding
+2026-09-07T18:00:00Z,700,5,3,0,Receding
+2026-09-07T18:00:00Z,0.09,1,2,0,Stable

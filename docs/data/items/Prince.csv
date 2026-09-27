@@ -516,3 +516,5 @@ timestamp,value,demand,rarity,last_change,stability
 2026-09-27T09:00:00Z,10,3,4,0,Fluctuating
 2026-09-27T12:00:00Z,6,1,2,0,Stable
 2026-09-27T12:00:00Z,10,3,4,0,Fluctuating
+2026-09-27T15:00:00Z,10,3,4,0,Fluctuating
+2026-09-27T15:00:00Z,6,1,2,0,Stable

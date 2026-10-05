@@ -511,3 +511,4 @@ timestamp,value,demand,rarity,last_change,stability
 2026-10-05T09:00:00Z,2675,6,4,0,Doing Well
 2026-10-05T12:00:00Z,2675,6,4,0,Doing Well
 2026-10-05T15:00:00Z,2675,6,4,0,Doing Well
+2026-10-05T18:00:00Z,2700,5,4,0,Stable

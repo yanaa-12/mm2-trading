@@ -511,3 +511,4 @@ timestamp,value,demand,rarity,last_change,stability
 2026-10-05T09:00:00Z,1340,5,4,0,Stable
 2026-10-05T12:00:00Z,1340,5,4,0,Stable
 2026-10-05T15:00:00Z,1340,5,4,0,Stable
+2026-10-05T18:00:00Z,1330,5,4,0,Underpaid For

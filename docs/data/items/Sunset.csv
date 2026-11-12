@@ -1397,3 +1397,5 @@ timestamp,value,demand,rarity,last_change,stability
 2026-11-11T21:00:00Z,0.06,1,1,0,Stable
 2026-11-12T06:00:00Z,650,5,3,0,Stable
 2026-11-12T06:00:00Z,0.06,1,1,0,Stable
+2026-11-12T09:00:00Z,0.06,1,1,0,Stable
+2026-11-12T09:00:00Z,650,5,3,0,Stable

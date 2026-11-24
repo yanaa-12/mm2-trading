@@ -209,3 +209,4 @@ timestamp,value,demand,rarity,last_change,stability
 2026-11-23T15:00:00Z,14500,5,5,0,Fluctuating
 2026-11-23T18:00:00Z,14500,5,5,0,Fluctuating
 2026-11-23T21:00:00Z,14500,5,5,0,Fluctuating
+2026-11-24T06:00:00Z,11500,5,5,0,Underpaid For
